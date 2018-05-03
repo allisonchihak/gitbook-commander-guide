@@ -115,11 +115,12 @@ If you would like to offer any products while booking, such as breakfast, wine, 
 
 For more information, please see our article about [`Stay products`](stay-products.md)
 
-## Priority 
+## Priority
 
 Distributor configuration settings can be assigned in several different places throughout the system. Therefore, as you choose your property settings, it is important to understand the priority of assignment.
 
 According to Mews, the order of priority is as follows:
+
 1. **Deeplinks or URL** - This can include settings for language, currency, city, space, property, start, end, and vouchers
 2. **Distributor configuration** - Found within Mews Commander settings; any fields completed with `Default` will take preference from your website settings, however if any specific values are selected here, those selections will override website settings
 3. **Website settings** - In relation to distributor configuration settings, these settings will override distributor configuration settings unless any non-default settings are specified there
