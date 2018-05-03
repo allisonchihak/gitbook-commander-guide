@@ -94,6 +94,10 @@ In the State screen you are able to manage the current status of the reservation
 * **Checked-out**: All bookings that have completed their stay will have the status "Checked-Out". Once a booking is checked-out, you can no longer check it back in.
 * **Checked-in**: A booking that is currently in-house will be considered "Checked-In"
 
+{% hint style="info" %}
+Please note that the default release date is calculated using the midpoint between reservation creation time and the arrival time. In case of group bookings with multiple arrival times, the system will use the closest start time for calculation. If there is an odd number of days or hours, time will be rounded down.
+{% endhint %}
+
 **Confirmed**
 
 * If a booking is on OPTIONAL state, you can confirm bookings directly from this screen. It will change the status to "Confirmed" and post the revenue on the customer bill. Next to the confirmation box you are also able to send a confirmation to another person who is not assigned to the booking. Type the e-mail in the box and he/she will receive the confirmation e-mail with a summary of all the bookings that are selected.
