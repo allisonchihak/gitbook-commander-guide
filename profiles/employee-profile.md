@@ -111,5 +111,7 @@ Please note that only superior employees have rights to delete users from the sy
 
 ## Two-Factor Authentication
 
-Within your user profile, users have the option to enable or disable two-factor authentication. Users may also choose to generate 10 recovery codes for their account. These code can be used for logging into the system in case of broken or lost phone. Please note that these codes should be safely stored by user as they will only be displayed once.
+Within your user profile, users have the option to enable or disable two-factor authentication. If enabled, users must download an authentication application to their mobile device, which they will use to enter a unique code in addition to their chosen password each time that they log in to their user profiles.
+
+ Users may also choose to generate 10 recovery codes for their account. These code can be used for logging into the system in case of broken or lost phone. Please note that these codes should be safely stored by user as they will only be displayed once.
 
