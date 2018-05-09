@@ -67,12 +67,12 @@ The interval field determines a `Start time` and `End time` of the data included
 * **Name** - This is the internal name you give the export. This will always be pre-filled with the Mews name of the report that you're exporting
 * **Next start** - The time that reports are generated and sent to the creator. Please note that the Interval field on the left-hand side of this screen will all be based on the time that you choose here.  
 * **Frequency** - How often would you like to the report to be generated and sent
-  * **Hourly **- Repeating every hour starting at the specified time
-  * **Daily **- Repeating every day at the specified time
-  * **Weekly **- Repeating every week at the specified time
-  * **Monthly **- Repeating every moth at the specified time
-  * **Quarterly **- Repeating every quarter at the specified time
-  * **Yearly **- Repeating once per year at the specified time
+  * **Hourly** - Repeating every hour starting at the specified time
+  * **Daily** - Repeating every day at the specified time
+  * **Weekly** - Repeating every week at the specified time
+  * **Monthly** - Repeating every moth at the specified time
+  * **Quarterly** - Repeating every quarter at the specified time
+  * **Yearly** - Repeating once per year at the specified time
 * **Format** - Choose the file format of the delivered attachments
   * **Excel** - Files will have an `.xls` extension
   * **CSV** - Files will have a `.csv` extension
