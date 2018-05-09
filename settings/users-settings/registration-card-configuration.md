@@ -13,7 +13,7 @@ Navigate to registration card configuration and you will see the following optio
   * **Display address**
   * **Display confirmation number**
   * **Display gender**
-  * **Display marketing e-mail opt-out**
+  * **Display marketing e-mail opt-in**
   * **Display rate**
   * **Display telephone**
   * **Display visit reason**
