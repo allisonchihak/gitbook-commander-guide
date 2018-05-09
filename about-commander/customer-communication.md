@@ -8,6 +8,8 @@ This article includes a detailed description of each e-mail type, automatic vs. 
 
 ## Profile import creation
 
+As reservations in the past, often from other systems, are uploaded into Mews, user profiles are created based on the e-mail addresses and customer details that are provided in the Import file. As these customer profiles are created, users will receive an automatically generated e-mail to inform them that their information was used to create a customer profile that is safely stored in Mews and available in case they would like to request deletion or update any information. 
+
 ## Password reset
 
 ## Magic link

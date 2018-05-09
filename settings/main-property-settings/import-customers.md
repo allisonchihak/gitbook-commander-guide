@@ -11,6 +11,8 @@ The Reservations Import tool automatically adds reservations to the system using
 
 We have added red indicators on the headers with useful information on how to fill in each of these fields. Besides, some headers have been marked with an asterisk, marking mandatory fields. The system would allow to fill only the mandatory fields, however, for better reporting we highly encourage to fill as many fields as applicable.
 
+As reservations in the past, often from other systems, are uploaded into Mews, user profiles are created based on the e-mail addresses and customer details that are provided in the Import file. As these customer profiles are created, users will receive an automatically generated e-mail to inform them that their information was used to create a customer profile that is safely stored in Mews and available in case they would like to request deletion or update any information.
+
 ## Companies:
 
 * The “Companies” tab is useful when it comes to loading companies that some of your corporate guests might be booking with. Furthermore, you can assign companies to guests in the “Customers” section, that information will be displayed on the guests' reservations and profiles.
