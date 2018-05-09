@@ -64,7 +64,7 @@ The interval field determines a `Start time` and `End time` of the data included
 ### Export Schedule
 
 * **Enabled** - If this option is selected, it will activate this schedule and you will receive reports at the chosen `next start` time and `frequency`
-* **Name ** - This is the internal name you give the export. This will always be pre-filled with the Mews name of the report that you're exporting
+* **Name** - This is the internal name you give the export. This will always be pre-filled with the Mews name of the report that you're exporting
 * **Next start** - The time that reports are generated and sent to the creator. Please note that the Interval field on the left-hand side of this screen will all be based on the time that you choose here.  
 * **Frequency** - How often would you like to the report to be generated and sent
   * **Hourly **- Repeating every hour starting at the specified time
