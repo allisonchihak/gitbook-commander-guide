@@ -54,7 +54,9 @@ When all fields are correctly completed, click `Change` to save your new passwor
 
 `Two-factor authentication (2FA)` is used to secure your account by requiring verification from two different devices before you can successfully log in. You can enable `Two-factor authentication` to add an extra layer of security for data protection. After enabling, you must confirm your identity each time before anyone can gain access using your login details.
 
-First, you must download an authenticator application on your mobile phone. Next, to enable `2FA`, navigate to the `Security` tab of your user profile and click the `Edit` button and you will see a unique QR code appear on the screen.
+First, you must download an authenticator application to your mobile device. You can find a button labeled `Download Authenticator` , which will automatically redirect you to download the LastPass authenticator. Mews also supports Google authenticator if preferred. 
+
+Next, to enable `2FA`, navigate to the `Security` tab of your user profile and click the `Edit` button and you will see a unique QR code appear on the screen.
 
 Next, open your authenticator application of choice, scan the QR code displayed on the screen. You will see the following two fields to complete:
 
