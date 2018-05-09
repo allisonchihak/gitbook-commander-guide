@@ -73,6 +73,9 @@ The interval field determines a `Start time` and `End time` of the data included
   * **Monthly **- Repeating every moth at the specified time
   * **Quarterly **- Repeating every quarter at the specified time
   * **Yearly **- Repeating once per year at the specified time
+* **Format** - Choose the file format of the delivered attachments
+  * **Excel** - Files will have an `.xls` extension
+  * **CSV** - Files will have a `.csv` extension
 * **Export target** - this is the group of people who will receive the report at the specified interval. Please note that export targets are not required. If you do not choose a target, you will receive a notification in the system when your report is generated and will be able to download it directly. For more information about Export targets, please [`click here`](export-targets.md). 
 * **Options**
   * **Notify creator about export** - select this option if you would like the system to display a notification for the creator of the report each time that report is exported and ready
