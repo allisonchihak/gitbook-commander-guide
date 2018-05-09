@@ -32,8 +32,10 @@ In order to achieve 100% completion, all legally required fields need to be fill
 * Birth date
 * Age
 * Address
-* ID card
+* Identity card
 * Passport
+* Travel Visa
+* Address
 * Profile completion
 
 ## Birthday report
