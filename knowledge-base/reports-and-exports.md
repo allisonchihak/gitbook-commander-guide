@@ -22,7 +22,7 @@ We do not have a specific report in Mews that will calculate a trial balance, bu
  
   When all fields are correctly completed, click `OK` and select `View report` 
   
-  On the very last line of the report, in the `Totals` row and the `General ledger` column, you will find the total balance. Copy this number for the calculation.
+  On the very last line of the report, in the `Totals` row and the `General ledger` column, you will find the total balance. Copy this number for calculation in step 3.
 
 **2.** Navigate to the Accounting report using the following path: 
 
@@ -45,11 +45,13 @@ We do not have a specific report in Mews that will calculate a trial balance, bu
   
   When all fields are correctly completed, click `OK` and select `View report` 
   
-  Copy the totals under both the `Revenue` and `Payments` sections for calculation.
+  
+  Copy the totals under both the `Revenue` and `Payments` sections for the following calculation.
   
 
 **3.** Lastly, calculate the final trial balance using the following formula:
 
-**Balance of Accounting ledger + Revenue total - Payments total = Trial Balance**
+**Accounting ledger total + Revenue total - Payments total = Trial Balance**
+
 
 If you open the Accounting ledger report with the same filters but with `Start date` selected as the next day (e.g. 29th March), the total at the end of that report, in the last column, will match the number you calculated in the previous step.
