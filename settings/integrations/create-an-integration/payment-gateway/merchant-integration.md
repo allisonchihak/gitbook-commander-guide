@@ -24,7 +24,7 @@ You can also access the payment report directly from the Mews dashboard under th
 
 Once you've arrived, choose the following options for your filters:
 
-* **Mode** - Settled
+* **Mode** - Created
 * **Start date** - 1st day of the month you'd like to check \(e.g. 1st January\)
 * **End Date** - 1st day of the next month \(e.g. 1st February\)
 * **States** - Charged, Settled
