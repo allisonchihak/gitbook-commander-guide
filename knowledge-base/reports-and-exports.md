@@ -1,6 +1,6 @@
 # Reports & Exports
 
-Article in progress. Knowledge Base coming soon!
+Article in progress. More Knowledge Base content coming soon!
 
 ## Calculate a Trial Balance
 
