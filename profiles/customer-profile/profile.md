@@ -90,6 +90,10 @@ As guests may have multiple address, you can add them to their customer profile 
 
 When all entered information is correct, click the `Save` button and you will automatically be redirected to the main Customer Profile section.
 
+The `Primary` address is marked automatically based on the last updated and most complete set of data. If there are no complete addresses, it will be assigned to the most recently updated. This badge indicates that this address will be displayed on registration cards and used for any legal reporting.
+
+If you need to update or change your primary address, you must either delete the current primary address, update the desired address to be the most complete, or create a new one with the correct address details. 
+
 **To edit an address**, click on the `address`and you will see the same window appear, where you can change the entered information as needed. Click on the `Save` button when all information is corrected.
 
 **To delete an address**, click on the `address`and look for the `trashcan` icon, and click on it. When the confirmation window appears, click `Delete` and you will be redirected to the main customer profile section. That deleted address should no longer be visible within the `addresses` section.
