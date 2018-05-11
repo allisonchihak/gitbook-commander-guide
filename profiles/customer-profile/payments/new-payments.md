@@ -69,7 +69,7 @@ Please note that if charging a new card, additional fields may appear for comple
 Use this option if you are using an external payment terminal that is not associated with Mews Commander.
 
 * **Credit Card** - Select a previously used card from the drop-down menu or select `New credit card`
-* **Type** - Select the correct card type from the drop-down menu; please note that this drop-down will only display options that have been enabled in your [`Accounting configuration`](accounting-configuration.md) settings in the `Accepted manual credit card types` field. 
+* **Type** - Select the correct card type from the drop-down menu; please note that this drop-down will only display options that have been enabled in your `Accounting configuration` settings in the `Accepted manual credit card types` field. 
 * **Last 4 digits** - Enter the last 4 digits of the full card number
 * **Expiration** - Date when card becomes invalid
 * **Name** - Pre-filled with customer name
