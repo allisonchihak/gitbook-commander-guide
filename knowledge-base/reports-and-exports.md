@@ -66,24 +66,20 @@ Setting up automated reporting for STR is an easy and straightforward process wi
 ### Existing data
 
 1. Within Mews Commander, navigate to the `Occupancy Report` by either clicking the direct link on the dashboard or using the following path:
-
-* **Main Menu &gt; Reservations &gt; Occupancy** 
-
-2. Look for the `OK` button, click on it, and select `Create export schedule`
-
-3. Next, you will be automatically redirected to your export schedule settings. Under the `Report configuration` section, choose the following options for each filter:
+2. **Main Menu &gt; Reservations &gt; Occupancy**
+3. Look for the `OK` button, click on it, and select `Create export schedule`
+4. Next, you will be automatically redirected to your export schedule settings. Under the `Report configuration` section, choose the following options for each filter:
    * **Mode** - Occupancy
    * **Interval** - Last day
    * **States** - Select all \(confirmed, optional\)
    * **Values** - Net
    * **Space types** - Select all
    * **Rate mode** - Average night rate
-   * **Rate** - `-` (No selection)
-   * **Company** - `-` (No selection)
-   * **Travel agency** - `-` (No selection)
-   
-2. When all fields are completed as described above, click `Save` under the `Report configuration` section.
-3. In the `Export schedule` section, choose the following options for each filter:
+   * **Rate** - `-` \(No selection\)
+   * **Company** - `-` \(No selection\)
+   * **Travel agency** - `-` \(No selection\)
+5. When all fields are completed as described above, click `Save` under the `Report configuration` section.
+6. In the `Export schedule` section, choose the following options for each filter:
    * **Enabled** - Select this box to activate automated reporting
    * **Name** - Create a title for the report; Please note that this title will be listed after `Occupancy report`
    * **Next start** - Select tomorrow's date and choose 07:00 as the time
@@ -93,10 +89,11 @@ Setting up automated reporting for STR is an easy and straightforward process wi
      * **To** - Complete with the e-mail address provided by STR \(data\_daily@str.com\)
      * **Cc** - If you would like anyone else to receive these reports, include those e-mail addresses here
      * **Bcc** - If you would like anyone else to receive these reports, include those e-mail addresses here
-     When all fields are completed, click `Create`and you will see that these details will be pre-filled in the `Export target` field.
+
+       When all fields are completed, click `Create`and you will see that these details will be pre-filled in the `Export target` field.
    * **Format** - Select which file format you would like to receive
    * **Options** - Select the `Notify creator about export` option if you would like to be notified each time that the report is generated
-4. When all fields are complete, click the `Save` button under the `Export schedule` section.
+7. When all fields are complete, click the `Save` button under the `Export schedule` section.
 
 After clicking save, your export schedule should be complete and enabled. Starting the following day, reports including yesterday's data will now be created every day at 7 AM and automatically sent to the STR e-mail.
 

@@ -12,7 +12,7 @@ If properties check their `Payment report`, they can see the Mews commission cha
 
 CC storage fees are charged on a monthly basis dependent as part of their monthly invoicing, dependent on how many CC were stored to the system each month. That total can be checked in their `Credit Card report` in Mews Commander.
 
-## Stripe Merchant invoice
+## Mews Merchant invoice
 
 A Merchant fee is the contractual rate for Mews Merchant payment processing. This invoice is automatically settled from your Stripe account. At the beginning of each month, you will receive an invoice from us, which you can pass on to your accounting team. Once you receive your invoice for Merchant payments, you can follow the following steps to check the details:
 
