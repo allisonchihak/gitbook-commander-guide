@@ -60,16 +60,18 @@ If you open the Accounting ledger report with the same filters but with `Start d
 
 Setting up automated reporting for STR is an easy and straightforward process with Mews Commander. You can set up an STR reporting schedule for two different types of data sets:
 
-* Existing data for the rooms sold the previous day \(actual rooms sold yesterday\)
-* Forward-looking data for rooms sold and available in the next 365 days
+1. Existing data regarding the number of spaces sold the previous day
+2. Future predicted occupancy and availability data for the following year. This calculation is estimated based on the previous year's occupancy and availability information. 
 
-### To set up reporting for the first data set, follow these steps:
+### Existing data
 
-1. Open Mews Commander.
-2. Navigate to the `Occupancy Report` by either clicking the link on the dashboard or using the following path:
-   * **Main Menu &gt; Reservations &gt; Occupancy** 
-3. On the right-hand side under the reporting filters, click the `OK` button and then select `Create export schedule`.
-4. In the `Report configuration` section of the page, set up the following attributes:
+1. Within Mews Commander, navigate to the `Occupancy Report` by either clicking the direct link on the dashboard or using the following path:
+
+* **Main Menu &gt; Reservations &gt; Occupancy** 
+
+2.  `OK` button and then select `Create export schedule`.
+
+1. In the `Report configuration` section of the page, set up the following attributes:
    * **Mode** - Occupancy
    * **Interval** - Last day
    * **States** - Select all \(confirmed, optional\)
@@ -78,18 +80,18 @@ Setting up automated reporting for STR is an easy and straightforward process wi
    * **Rate** - Leave blank
    * **Company** - Leave blank
    * **Travel agency** - Leave blank
-5. Click the `Save` button under the `Report configuration` section.
-6. In the `Export schedule` section, set up the following attributes:
+2. Click the `Save` button under the `Report configuration` section.
+3. In the `Export schedule` section, set up the following attributes:
    * Tick the "Enabled" box \(to activate automated reporting\)
    * **Name** - Create a title for the report
    * **Next start** - Select the following day, at 7 AM
    * **Frequency** - Daily
    * **Export target** - Select the `+ E-mail` option; fill in the box labeled "To" with the e-mail provided by STR \(data\_daily@str.com\) and click `Create`
    * **Options** - Select the "Notify creator about export" option if you would like to be notified
-7. Click the `Save` button under the `Export schedule` section.
-8. An Excel report for yesterday's data will now be created every day at 7 AM and automatically sent to the STR e-mail.
+4. Click the `Save` button under the `Export schedule` section.
+5. An Excel report for yesterday's data will now be created every day at 7 AM and automatically sent to the STR e-mail.
 
-### To set up reporting for the second data set, follow these steps:
+### Future data
 
 1. Open Mews Commander.
 2. Navigate to the `Availability Report` by either clicking the link on the dashboard or using the following path:
