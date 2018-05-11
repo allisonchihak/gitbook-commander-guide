@@ -69,27 +69,36 @@ Setting up automated reporting for STR is an easy and straightforward process wi
 
 * **Main Menu &gt; Reservations &gt; Occupancy** 
 
-2.  `OK` button and then select `Create export schedule`.
+2. Look for the `OK` button, click on it, and select `Create export schedule`
 
-1. In the `Report configuration` section of the page, set up the following attributes:
+3. Next, you will be automatically redirected to your export schedule settings. Under the `Report configuration` section, choose the following options for each filter:
    * **Mode** - Occupancy
    * **Interval** - Last day
    * **States** - Select all \(confirmed, optional\)
    * **Values** - Net
+   * **Space types** - Select all
    * **Rate mode** - Average night rate
-   * **Rate** - Leave blank
-   * **Company** - Leave blank
-   * **Travel agency** - Leave blank
-2. Click the `Save` button under the `Report configuration` section.
-3. In the `Export schedule` section, set up the following attributes:
-   * Tick the "Enabled" box \(to activate automated reporting\)
-   * **Name** - Create a title for the report
-   * **Next start** - Select the following day, at 7 AM
+   * **Rate** - `-` (No selection)
+   * **Company** - `-` (No selection)
+   * **Travel agency** - `-` (No selection)
+   
+2. When all fields are completed as described above, click `Save` under the `Report configuration` section.
+3. In the `Export schedule` section, choose the following options for each filter:
+   * **Enabled** - Select this box to activate automated reporting
+   * **Name** - Create a title for the report; Please note that this title will be listed after `Occupancy report`
+   * **Next start** - Select tomorrow's date and choose 07:00 as the time
    * **Frequency** - Daily
-   * **Export target** - Select the `+ E-mail` option; fill in the box labeled "To" with the e-mail provided by STR \(data\_daily@str.com\) and click `Create`
-   * **Options** - Select the "Notify creator about export" option if you would like to be notified
-4. Click the `Save` button under the `Export schedule` section.
-5. An Excel report for yesterday's data will now be created every day at 7 AM and automatically sent to the STR e-mail.
+   * **Export target** - Select the `+ E-mail` option and, in the next screen, complete all fields as described below:
+     * **Name** - Select a title for this target, which will be available later for other export schedules
+     * **To** - Complete with the e-mail address provided by STR \(data\_daily@str.com\)
+     * **Cc** - If you would like anyone else to receive these reports, include those e-mail addresses here
+     * **Bcc** - If you would like anyone else to receive these reports, include those e-mail addresses here
+     When all fields are completed, click `Create`and you will see that these details will be pre-filled in the `Export target` field.
+   * **Format** - Select which file format you would like to receive
+   * **Options** - Select the `Notify creator about export` option if you would like to be notified each time that the report is generated
+4. When all fields are complete, click the `Save` button under the `Export schedule` section.
+
+After clicking save, your export schedule should be complete and enabled. Starting the following day, reports including yesterday's data will now be created every day at 7 AM and automatically sent to the STR e-mail.
 
 ### Future data
 
