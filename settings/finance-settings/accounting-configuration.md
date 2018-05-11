@@ -22,28 +22,29 @@ As new bookings are made, clickable dates will be restricted to your editable hi
   * **Receivable tracking enabled** - This will allow you to track the payments for outstanding invoices and their respective due dates. You can find this information in the [Bills and Invoices](../../reports/bills-and-invoices.md) report. If you have enabled "Invoice" as an external payment option, we would recommend selecting this option as well.
   * **Separate deposits on bill** - Select this option to create a separate section of `Deposits` on all your bills; if selected, `Deposits` will appear between the `Items` and `Payments` sections.
 * **Enabled external payment types** - Select which of these external payment types you'd like to accept at your property. An external payment type is defined as any payment that is made through an external source that is not associated with the Mews PMS.
-  * **Bacs - **A wire transfer within United Kingdom financial institutions.
-  * **Bad debts - **An outstanding balance that is recorded as a loss of revenue or unlikely to be received regardless of reason
-  * **Bank charges **-** **a fee or charge from a financial institution 
-  * **Barter - **any non-monetary payment including special deals. Please note that VAT Rates still apply to the value of the product or service. This is only applicable to properties in Germany.
+  * **Bacs** - A wire transfer within United Kingdom financial institutions.
+  * **Bad debts** - An outstanding balance that is recorded as a loss of revenue or unlikely to be received regardless of reason
+  * **Bank charges** - Any fee or charge from a financial institution 
+  * **Barter** - Any non-monetary payment including special deals. Please note that VAT Rates still apply to the value of the product or service. This is only applicable to properties in Germany.
   * **Cash** - A cash payment, including all supported currencies. 
-  * **Commission **- A sum of money paid upon the completion of a task, often relating to the selling of certain number of goods and services.
-  * **Complimentary **- Any item or service that you'd like to provide to a customer without charge. Please note that VAT still applies to the value of the item or service. 
+  * **Commission** - A sum of money paid upon the completion of a task, often relating to the selling of certain number of goods and services.
+  * **Complimentary** - Any item or service that you'd like to provide to a customer without charge. Please note that VAT still applies to the value of the item or service. 
   * **Credit card** - A credit card processed by an external system
-  * **Cross settlement - **A foreign exchange transaction in which your property receives a different currency than the original listing
-  * **Exchange rate difference - **A leftover amount of currency that is a result of exchange rate fluctuation, causing a difference between the former and current payment balances. The rate difference is recorded as an external payment to allow balance of zero.
+  * **Cross settlement** - A foreign exchange transaction in which your property receives a different currency than the original listing
+  * **Exchange rate difference** - A leftover amount of currency that is a result of exchange rate fluctuation, causing a difference between the former and current payment balances. The rate difference is recorded as an external payment to allow balance of zero.
   * **Exchange rounding difference** - Exchange rate difference for amounts less than one whole unit of currency
   * **Invoice** - An invoice processed by an external system
-  * **Prepayment - **Revenue received in the past with already reported tax
-  * **Reseller - **Revenue coming from any reseller of goods or services
-  * **Unspecified -** A payment that comes from a source not otherwise specified 
+  * **Prepayment** - Revenue received in the past with already reported tax
+  * **Reseller** - Revenue coming from any reseller of goods or services
+  * **Unspecified** - A payment that comes from a source not otherwise specified 
   * **Wire transfer** - An electronic payment sent directly from a bank account to your property
+* **Accepted manual credit card types** - This drop-down contains a list of all card types that are supported in Mews. Select only the card types that you would like to accept in the `Manually charged` payment field. Please note that only the items selected in this setting will appear as options in the `Type` field as you take manually charged card payments. 
 * **Bill closing**
   * **Always allowed** - You may close bills at any time, even if the items on the bill have not yet been consumed \(for example a future stay\)
-  * **Only with consumed items** - You may only close bills that have consumed items on them. Therefore, if there is a future stay _or transfer planned and pre-paid _**\(?\)**, the system will not allow you to close this bill until the day of checkout. This setting is extremely restrictive to front desk, and we do not recommend using it.
-  * **Only with consumed items half day window** -** **You may not close a bill with consumed items until the day of departure, however you can make changes to the booking up until departure. From the moment that a bill is closed, you cannot make changes to that booking because the items that are already on that closed bill would be affected by the change. This is the most flexible setting and we recommend this option over the others.
+  * **Only with consumed items** - You may only close bills that have consumed items on them. Therefore, if there is a future stay or transfer planned and pre-paid, the system will not allow you to close this bill until the day of checkout. This setting is extremely restrictive to front desk, and we do not recommend using it.
+  * **Only with consumed items half day window** - You may not close a bill with consumed items until the day of departure, however you can make changes to the booking up until departure. From the moment that a bill is closed, you cannot make changes to that booking because the items that are already on that closed bill would be affected by the change. This is the most flexible setting and we recommend this option over the others.
 * **Invoice due interval** - The standard number of days within which an invoice should be settled. For example, if you issue an invoice and it should be settled within 30 days, this field should be set to 30. When a new invoice is created, it will be set to this number of days by default, however you can manually specify a different due interval if necessary.
-* **Tax rate codes **- Open text fields where mapping codes can be entered as dictated by the accounting software of your choice. These are also known as VAT Rate fields. These are used for accounting exports that may require mapping of all products and payments, including their VAT Rates. VAT Rates vary by country. Please consult your accounting team for further guidance.
+* **Tax rate codes** - Open text fields where mapping codes can be entered as dictated by the accounting software of your choice. These are also known as VAT Rate fields. These are used for accounting exports that may require mapping of all products and payments, including their VAT Rates. VAT Rates vary by country. Please consult your accounting team for further guidance.
 * **Default invoice counter** - This is the counter through which all invoices will be processed by default. Should there be a more appropriate counter for an invoice, you can still choose a different counter before any invoice is issued to a client. 
 
 The following configuration options include a list of every possible payment type that is available in the system. Should your accounting system \(or internal accounting procedures\) incorporate different [accounting categories](accounting-categories.md), you must first [create those Accounting Categories](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/finance-settings/accounting-categories/create-an-accounting-category.md) for each payment type, as well as their specific accounting codes.
