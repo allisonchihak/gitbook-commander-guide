@@ -2,7 +2,7 @@
 
 Article in progress. More Knowledge Base content coming soon!
 
-## Calculate a Trial Balance
+## Stripe Trial Balance
 
 We do not have a specific report in Mews that will calculate a trial balance, but you can easily do this using the `Accounting Ledger` and `Accounting Report`. Below, you can find a description of how to calculate the Trial Balance for a certain period.
 
@@ -56,3 +56,56 @@ Copy the totals under both the `Revenue` and `Payments` sections for the followi
 
 If you open the Accounting ledger report with the same filters but with `Start date` selected as the next day \(e.g. 29th March\), the total at the end of that report, in the last column, will match the number you calculated in the previous step.
 
+## STR Export Schedule
+Setting up automated reporting for STR reports is an easy and straightforward process with Mews Commander. You can set up an STR reporting schedule for two different types of data sets:
+* Existing data for the rooms sold the previous day (actual rooms sold yesterday)
+* Forward-looking data for rooms sold and available in the next 365 days
+
+### To set up reporting for the first data set, follow these steps:
+1. Open Mews Commander.
+2. Navigate to the `Occupancy Report` by either clicking the link on the dashboard or using the following path:
+    * **Main Menu > Reservations > Occupancy** 
+3. On the right-hand side under the reporting filters, click the `OK` button and then select `Create export schedule`.
+4. In the `Report configuration` section of the page, set up the following attributes:
+   - **Mode** - Occupancy
+   - **Interval** - Last day
+   - **States** - Select all (confirmed, optional)
+   - **Values** - Net
+   - **Rate mode** - Average night rate
+   - **Rate** - Leave blank
+   - **Company** - Leave blank
+   - **Travel agency** - Leave blank
+5. Click the `Save` button under the `Report configuration` section.
+6. In the `Export schedule` section, set up the following attributes:
+   - Tick the "Enabled" box (to activate automated reporting)
+   - **Name** - Create a title for the report
+   - **Next start** - Select the following day, at 7 AM
+   - **Frequency** - Daily
+   - **Export target** - Select the `+ E-mail` option; fill in the box labeled "To" with the e-mail provided by STR (data_daily@str.com) and click `Create`
+   - **Options** - Select the "Notify creator about export" option if you would like to be notified
+7. Click the `Save` button under the `Export schedule` section.
+8. An Excel report for yesterday's data will now be created every day at 7 AM and automatically sent to the STR e-mail.
+
+### To set up reporting for the second data set, follow these steps:
+1. Open Mews Commander.
+2. Navigate to the `Availability Report` by either clicking the link on the dashboard or using the following path:
+    * **Main Menu > Reservations > Availability** 
+3. On the right-hand side under the reporting filters, click the `OK` button and then select `Create export schedule`.
+4. In the `Report configuration` section of the page, set up the following attributes:
+   - **Mode** - Occupancy
+   - **Interval** - Upcoming year
+   - **States** - Select all (confirmed, optional)
+   - **Values** - Net
+   - **Rate mode** - Average night rate
+   - **Rate** - Leave blank
+   - **Company** - Leave blank
+   - **Travel agency** - Leave blank
+5. Click the `Save` button under the `Report configuration` section.
+6. In the `Export schedule` section, set up the following attributes: - Tick the "Enabled" box (to activate automated reporting)
+   - **Name** - Create a title for the report
+   - **Next start** - Select next Monday, at 7 AM
+   - **Frequency** - Weekly
+   - **Export target** - Select the `+ E-mail` option; fill in the box labeled "To" with the e-mail provided by STR (auto_data@forecaster.str.com) and click `Create`
+   - **Options** - Select the "Notify creator about export" option if you would like to be notified
+7. Click the `Save` button under the `Export schedule` section.
+8. An Excel report for yesterday's data will now be created every Monday at 7 AM and automatically sent to the STR e-mail.
