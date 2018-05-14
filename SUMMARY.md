@@ -50,6 +50,7 @@
       * [One-Click Payments](profiles/customer-profile/billing/one-click-payments.md)
       * [Closed Bills and Invoices](profiles/customer-profile/billing/closed-bills-and-invoices.md)
       * [Company Bills](profiles/customer-profile/billing/company-bills.md)
+      * [Rebate Bills](profiles/customer-profile/billing/rebate-bills.md)
   * [Employee Profile](profiles/employee-profile.md)
   * [Company Profile](profiles/company-profile.md)
   * [Travel Agency Contracts](profiles/travel-agency-contracts.md)
