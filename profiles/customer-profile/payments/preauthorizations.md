@@ -28,27 +28,28 @@ Here, you can see a list of preauthorizations, both past and current. The follow
 
 ## Create
 
-To create a new preauthorization, click the '+Preauthorization' button on the payments screen. If you are using a card that is not on file, you will need to complete the following information. You'll have two options:
+To create a new preauthorization, click the `+Preauthorization` button on the payments screen. If you are using a card that is not on file, you will need to complete the following information. You'll have two options:
 
 **Charge online via Adyen:**
 
 This left section is for online cards using Stripe & Adyen.
 
-* **Provider** - pre-filled with Adyen
-* **Credit Card** - choose from a previously used card already on file or select to add a new card
-* **Credit Card Number** - the full 16-digit number is required for this field. Please note that after information has been submitted, only the last 4 digits will be visible.
+* **Provider** - pre-filled with `Mews`
+* **Credit Card** - Choose from a previously used card already on file or select to add a new card
+* **Credit Card Number** - The full 16-digit number is required for this field. Please note that after information has been submitted, only the last 4 digits will be visible.
 * **Expiration** - Date that the card will expire and become invalid
 * **Format**
   * **Physical** - Card was physically present on the property at the time of transaction
   * **Virtual** - Card information was received via telephone or by a third party
 * **Currency** - Select the currency that you'd like to charge. This will be pre-filled with your default currency
 * **Amount** - Enter the monetary value of the preauthorization, not including currency symbols
+* **Notes** - Include any notes or additional information as necessary
 
 **Add manually charged payment**
 
 This right-hand side is for cards that are being charged manually via an external terminal that is not associated with Mews Commander.
 
-* **Credit Card** - Select 'New credit card' or a previously used card, identified by the card type and first 6 and last 4 digits
+* **Credit Card** - Select `New credit card` or a previously used card, identified by the card type and first 6 and last 4 digits
 * **Type** - Select credit card type from the drop-down list
 * **Last 4 digits** - The last 4 digits of the card number
 * **Expiration** - Date that the card will expire and become invalid
@@ -58,9 +59,10 @@ This right-hand side is for cards that are being charged manually via an externa
   * **Virtual **- Card information was received via telephone or by a third party
 * **Currency** - Select the currency that you'd like to charge. This will be pre-filled with your default currency.
 * **Amount** - Enter the monetary value of the preauthorization, not including currency symbols
-* **Code** - 
-* **Receipt Identifier** - 
-* **Sequence Code** - 
+* **Code** - Three-digit CVV code
+* **Receipt Identifier** - Include any identifying code produced by the terminal receipt; please consult with your accounting team for further information
+* **Sequence Code** - Any additional code used to identify this transaction; please consult with your accounting team for further information
+* **Notes** - Include any notes or additional information as necessary
 
 ## Charge
 
