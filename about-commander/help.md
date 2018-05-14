@@ -2,7 +2,7 @@
 
 We believe that most challenges can be resolved directly in the Mews Commander via a number of help tools. However if you do get stuck, we are always here to help. Below, you can find a summary of a number of resources available in our Main Menu, under the `Help` section.
 
-## Guide
+## [Guide](https://mews-systems.gitbook.io/commander-guide)
 
 You found it! The knowledge base is our complete user guide. Click on the question mark icons to be taken directly to that page's corresponding documentation. 
 
@@ -21,7 +21,7 @@ When all fields are correctly completed, click the `Send feedback` button and yo
 
 If you would prefer to e-mail us directly, you can send inquiries to `support@mewssystems.com`.
 
-## Request feature
+## [Request feature](https://portal.productboard.com/mewssystems/tabs/2-planned)
 
 Our Productboard is the new go-to place for requesting features, voting on your favorite ideas, and reading about the items that we are already planning to implement. This is the best place for you, our beloved Mewsers, to submit all of your valuable feedback including any suggestions or improvements.
 
