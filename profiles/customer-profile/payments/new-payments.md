@@ -17,14 +17,17 @@ Next, you'll see a screen that includes all of the currencies that your property
 
 In each row, you will see the following information:
 
-* **Currency** - Find the correct currency of the payment that you are accepting
-* **Value** - Monetary amount not including currency symbols
 * **Cashier** - Select the cashier that you are using. Please note that only the cashiers where the selected currency is enabled will appear in the drop-down list.
+* **Currency** - Select the correct currency of the payment from the drop-down menu; please note that only enabled currencies for this cashier will appear as options
+* **Amount** - Monetary amount not including currency symbols
 * **Notes** - Add any additional notes or information that you'd like to include
-* **Exchange Rate** - Exchange rate to your default currency
-* **Default currency** - Type the payment amount and you will see the equivalent amount of your default currency here
 
-When all information is filled in, click the `Create` button in the correct currency row.
+If you select a currency that is not your default currency, you will also see the following two fields appear:
+
+* **Exchange Rate** - Exchange rate to your default currency
+* **Default currency** - The equivalent amount of your default currency
+
+When all information is filled in, click the `Create` button.
 
 At this time, you will be taken back the the `Payments` page of the customer's profile and this transaction will be visible under the `Payments` section of this page, with `Type` listed as `Cash payment`.
 
