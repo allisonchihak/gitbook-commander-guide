@@ -45,18 +45,19 @@ Closed bills and invoices contain the following features and information:
 * **Save** - If any changes were made to address or notes, don't forget to click 'Save'
 * **Bill items** - Complete list of each bill item, including stay services, products, or additional services. Bill items are expandable and collapsable using the `-` and `+` buttons, however when the bill is printed or exported as a document, all items are fully listed. Bill items are listed with the following details:
   * **Created** - Date and time that item was created or added to bill
+  * **Count** - Quantity x Price per unit
   * **Tax rate** - Correct tax percentage for each item
-  * **Totals** - Total sum listed under each respective column
   * **Net** - Cost of item, excluding tax
-  * **Value** - Total cost, including tax and item cost
   * **VAT** - Tax alone, excluding item cost
+  * **Value** - Total cost, including tax and item cost
+  * **Totals** - Total sum listed under each respective column
 * **Balance / To be paid** - Remaining balance owed. This number should always be zero for closed bills. Users can choose to display this balance in the guest's preferred currency \(known as informative currency\) for their own information, however payment must be taken in the property's local or chosen currency.
 * **Totals** - List of total balances from the items on that particular bill. Totals include the following details:
   * **Tax rate** - List of each tax rate included in bill items
   * **Net** - Cost of bill items grouped by tax rate, excluding tax
-  * **Totals** - Total sums of Net, VAT, and Value
   * **VAT** - Tax alone, excluding item cost
   * **Value** - Total cost of items per tax rate, including tax and item cost
+  * **Totals** - Total sums of Net, VAT, and Value
 
 ## Bills only
 
@@ -67,8 +68,9 @@ The following items are additionally available on closed bills:
 * **Payments** - Only available for bills. Complete list of all payments made to balance this bill. Payments are listed with the following details:
   * **Payment type** - Selected payment type with payment details
   * **Created** - Date and time that payment was taken
-  * **Totals** - Total amount paid including all payments
+  * **Count** - Quantity x Price per unit
   * **Value** - Amount paid listed next to each payment, always displayed as a negative value
+  * **Totals** - Total amount paid including all payments
 * **Fiscal Record** - Details regarding taxation and legality of this document. These include the following items
 
 ## Invoices only
