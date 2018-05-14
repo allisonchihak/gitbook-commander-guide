@@ -21,13 +21,13 @@ When all fields are correctly completed, click the `Send feedback` button and yo
 
 If you would prefer to e-mail us directly, you can send inquiries to `support@mewssystems.com`.
 
-## [Request feature](https://portal.productboard.com/mewssystems/tabs/2-planned)
+## [Request Feature](https://portal.productboard.com/mewssystems/tabs/2-planned)
 
 Our Productboard is the new go-to place for requesting features, voting on your favorite ideas, and reading about the items that we are already planning to implement. This is the best place for you, our beloved Mewsers, to submit all of your valuable feedback including any suggestions or improvements.
 
 In case you don't have any specific ideas of your own, we are continually adding new items to our boards, which you can comment on as you see fit. Keep checking back for added ideas, or simply to view the status of what's currently being developed.
 
-## [Service status](http://status.mews.li/)
+## [Service Status](http://status.mews.li/)
 
 We recommend all users store the link to this page as a bookmark on their computer. The link leads to our "Status Page" which we host on another platform, ensuring that if anything happens to Mews, you are always able to keep up to date on the challenges we are facing. When we have any outage, we always firstly update this page, so its truly the most up to date platform for information.
 
@@ -35,7 +35,7 @@ Via the Status Page, you can subscribe to updates, so that we will automatically
 
 Click on the title above to be redirected to our status page.
 
-## [Release notes](http://www.mewssystems.com/release-notes/)
+## [Release Notes](http://www.mewssystems.com/release-notes/)
 
 We have minimum 1 release of features each week, in order to keep informed about new feature releases, you can always follow this page, which will give a short rundown of each released feature or bug fix.
 
@@ -49,7 +49,7 @@ Click on the title above to be redirected to our release notes.
 
 We also have a live chat implemented inside the Mews Commander. This allows users to ask questions to our support team directly during working hours.
 
-## Mews travel club
+## Mews Travel Club
 
 The Mews community has been growing fast over the last couple of years and we are now have live properties in over 35 countries across Europe, Asia, Africa, and South America. That means a network of awesome hotels, hostels and apartments full of like-minded employees that love to travel.
 

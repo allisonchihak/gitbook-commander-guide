@@ -2,11 +2,6 @@
 
 Preauthorizations are the practice within the banking industry of verifying electronic transactions made with a debit card or credit card. Banks will hold this balance as unavailable until either the merchant charges the transaction \(also called settlement\) or the hold "falls off", meaning that the balance becomes available again.
 
-* [Past and current](preauthorizations.md#past-and-current)
-* [Create](preauthorizations.md#create)
-* [Charge](preauthorizations.md#charge)
-* [Cancel](preauthorizations.md#cancel)
-
 ## Past and Current
 
 Here, you can see a list of preauthorizations, both past and current. The following information is visible from the payments screen:
@@ -33,9 +28,9 @@ To create a new preauthorization, click the `+Preauthorization` button on the pa
 
 **Charge online via Adyen:**
 
-This left section is for online cards using Stripe & Adyen.
+For online cards charged using Stripe & Adyen, you can use the `Charge online` form:
 
-* **Provider** - pre-filled with `Mews`
+* **Provider** - pre-filled with `Mews` or `Adyen`
 * **Credit Card** - Choose from a previously used card already on file or select to add a new card
 * **Credit Card Number** - The full 16-digit number is required for this field. Please note that after information has been submitted, only the last 4 digits will be visible.
 * **Expiration** - Date that the card will expire and become invalid
@@ -46,9 +41,11 @@ This left section is for online cards using Stripe & Adyen.
 * **Amount** - Enter the monetary value of the preauthorization, not including currency symbols
 * **Notes** - Include any notes or additional information as necessary
 
+When all fields are correctly completed, click `Create via internet` and you will see the preauthorization appear in the `Payment` section, which is then available for charging at the desired time. 
+
 **Add manually charged payment**
 
-This right-hand side is for cards that are being charged manually via an external terminal that is not associated with Mews Commander.
+For cards being charged manually via an external terminal that is not associated with Mews Commander, you can use the `Manually charged` form:
 
 * **Credit Card** - Select `New credit card` or a previously used card, identified by the card type and first 6 and last 4 digits
 * **Type** - Select credit card type from the drop-down list
@@ -64,6 +61,8 @@ This right-hand side is for cards that are being charged manually via an externa
 * **Receipt Identifier** - Include any identifying code produced by the terminal receipt; please consult with your accounting team for further information
 * **Sequence Code** - Any additional code used to identify this transaction; please consult with your accounting team for further information
 * **Notes** - Include any notes or additional information as necessary
+
+When all fields are correctly completed, click `Created by terminal` to complete the transaction on your external device. 
 
 ## Charge
 
