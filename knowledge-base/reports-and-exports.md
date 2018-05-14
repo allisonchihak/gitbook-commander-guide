@@ -8,7 +8,7 @@ We do not have a specific report in Mews that will calculate a trial balance, bu
 
 **1.** Navigate to the Accounting ledger report using the following path:
 
-**Main Menu &gt; Finance &gt; Accounting ledger**
+* **Main Menu &gt; Finance &gt; Accounting ledger**
 
 You can also access this report directly from the Mews Dashboard.
 
@@ -16,7 +16,7 @@ Choose the following options for each filter:
 
 * **Mode** - Detailed
 * **Type** - Guest ledger
-* **Date & Time** - Choose the correct date with 00:00 as the time
+* **Date & Time** - Choose the correct date with 00:00 as the time \(e.g. select \)
 * **Group by** - Customer
 * **Tax** - Included
 * **Options** - Highlight open payments should be selected
@@ -63,39 +63,44 @@ Setting up automated reporting for STR is an easy and straightforward process wi
 1. Existing data regarding the number of spaces sold the previous day
 2. Future-predicted occupancy and availability data for the following year. This calculation is estimated based on the previous year's occupancy and availability information. 
 
-### Existing Data
+### Historical Data
 
 1. Within Mews Commander, navigate to the `Occupancy Report` by either clicking the direct link on the dashboard or using the following path:
    * **Main Menu &gt; Reservations &gt; Occupancy**
 2. Look for the `OK` button, click on it, and select `Create export schedule`.
 3. Next, you will be automatically redirected to your export schedule settings. Under the `Report configuration` section, choose the following options for each filter:
+
    * **Mode** - Occupancy
    * **Interval** - Last day
    * **States** - Select all \(confirmed, optional\)
    * **Values** - Net
    * **Space types** - Select all
    * **Rate mode** - Average night rate
-   * **Rate** - `-` \(No selection\)
-   * **Company** - `-` \(No selection\)
-   * **Travel agency** - `-` \(No selection\)
-4. When all fields are completed as described above, click `Save` under the `Report configuration` section.
-5. In the `Export schedule` section, choose the following options for each filter:
+   * **Rate** - No selection  \(`-`\)
+   * **Company** - No selection  \(`-`\)
+   * **Travel agency** - No selection  \(`-`\)
+
+   When all fields are completed as described above, click `Save` under the `Report configuration` section.
+
+4. In the `Export schedule` section, choose the following options for each filter:
    * **Enabled** - Select this box to activate automated reporting
    * **Name** - Create a title for the report; please note that this title will be listed after `Occupancy Report`
    * **Next start** - Select tomorrow's date and choose 07:00 as the time
    * **Frequency** - Daily
    * **Export target** - Select the `+ E-mail` option, and on the next screen, complete all fields as described below:
-     * **Name** - Select a title for this target, which will be available later for other export schedules
-     * **To** - Complete with the e-mail address provided by STR \(data\_daily@str.com\)
-     * **Cc** - If you would like anyone else to receive these reports, include those e-mail addresses here
-     * **Bcc** - If you would like anyone else to receive these reports, include those e-mail addresses here
 
-       When all fields are completed, click `Create`, and you'll see that these details have been pre-filled in the `Export target` field.
+     * **Name** - Select a title for this target, which will be available later for other export schedules
+     * **To** - Complete with the e-mail address provided by STR: `data_daily@str.com`
+     * **Cc** - If you would like anyone else to receive these reports, include those e-mail addresses here
+     * **Bcc** - If you would like anyone else to receive these reports without having access to the list of other recipients, include those e-mail addresses here
+
+     When all fields are completed, click `Create`, and you'll see that these details have been pre-filled in the `Export target` field.
+
    * **Format** - Select which file format you would like to receive
    * **Options** - Select the `Notify creator about export` option if you would like to be notified each time that the report is generated
-6. When all fields are complete, click the `Save` button under the `Export schedule` section.
+5. When all fields are complete, click the `Save` button under the `Export schedule` section.
 
-After clicking save, your export schedule should be complete and enabled. Beginning the following day, a report of yesterday's data will now be created every day at 7:00 and will automatically be sent to the STR e-mail.
+After clicking `Save`, your export schedule should be complete and enabled. Beginning the following day, a report of yesterday's data will now be created every day at 7:00 and will automatically be sent to the STR e-mail.
 
 ### Future-Predictive Data
 
@@ -103,16 +108,19 @@ After clicking save, your export schedule should be complete and enabled. Beginn
    *  **Main** **Menu &gt; Reservations &gt; Availability** 
 2. Look for the `OK` button, click on it, and select `Create export schedule`.
 3. Next, you will be automatically redirected to your export schedule settings. Under the `Report configuration` section, choose the following options for each filter:
+
    * **Mode** - Occupancy
    * **Interval** - Upcoming year
    * **States** - Select all \(confirmed, optional\)
    * **Values** - Net
    * **Rate mode** - Average night rate
-   * **Rate** - `-` \(No selection\)
-   * **Company** - `-` \(No selection\)
-   * **Travel agency** - `-` \(No selection\)
-4. When all fields are completed as described above, click `Save` under the `Report configuration` section.
-5. In the `Export schedule` section, choose the following options for each filter: 
+   * **Rate** - No selection  \(`-`\)
+   * **Company** - No selection  \(`-`\)
+   * **Travel agency** - No selection  \(`-`\)
+
+   When all fields are completed as described above, click `Save` under the `Report configuration` section.
+
+4. In the `Export schedule` section, choose the following options for each filter: 
    * **Enabled** - Select this box to activate automated reporting
    * **Name** - Create a title for the report; please note that this title will be listed after `Availability Report`
    * **Next start** - Select next Monday's date and choose 07:00 as the time
@@ -128,7 +136,7 @@ After clicking save, your export schedule should be complete and enabled. Beginn
 
    * **Format** - Select which file format you would like to receive
    * **Options** - Select the `Notify creator about export` option if you would like to be notified each time that the report is generated
-6. When all fields are complete, click the `Save` button under the `Export schedule` section.
+5. When all fields are complete, click the `Save` button under the `Export schedule` section.
 
-After clicking save, your export schedule should be complete and enabled. Beginning the following Monday, a report of predictive data for the next year will now be created every Monday at 7:00 and will automatically be sent to the STR e-mail.
+After clicking `Save`, your export schedule should be complete and enabled. Beginning the following Monday, a report of predictive data for the next year will now be created every Monday at 7:00 and will automatically be sent to the STR e-mail.
 
