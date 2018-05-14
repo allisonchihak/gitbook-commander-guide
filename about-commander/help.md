@@ -1,25 +1,25 @@
 # Help
 
-We believe that most challenges can be resolved directly in the Mews Commander via a number of help tools. However if you do get stuck, we are here to help. Below a number of helpful resources for you.
-
-If you select the menu icon, which will open the sidebar menu, there you will find a link to our "Help" Section.
-
-* [Guide](help.md#guide)
-* [Contact Support](help.md#contact-support)
-* Request feature
-* [Service status](help.md#status-page)
-* [Release Notes](help.md#release-notes)
-* Mews travel club
+We believe that most challenges can be resolved directly in the Mews Commander via a number of help tools. However if you do get stuck, we are always here to help. Below, you can find a summary of a number of resources available in our Main Menu, under the `Help` section.
 
 ## Guide
 
-You found it! The knowledge base is our complete user guide. Click on the question mark icons to be taken directly to that page's
+You found it! The knowledge base is our complete user guide. Click on the question mark icons to be taken directly to that page's corresponding documentation. 
 
 ## Contact Support
 
-If you select to contact support, it will open a contact form, which you can use to submit a question to our live support team. Note that as you type the subject of your question, it will offer several articles from our FAQ library, which sound similar and might be helpful.
+If you select to contact support, it will open a contact form, which you can use to submit a question to our support team. You will see the following fields to complete:
 
-If you prefer to e-mail us, you can do this via support@mewssystems.com. Always try to clearly define the subject, describe the question in as much details as possible, and it really helps us if you include an image or gif of the screens you are struggling with, so that we will faster understand your question.
+* **E-mail** - Pre-filled with the e-mail address that you use to sign in to your account
+* **Name** - Pre-filled with the name corresponding to your user profile
+* **Subject/Topic** - Here, please include a brief summary of the problem; please note that as you type in this field, you will see article suggestions from our library of FAQs, which may help answer your questions.
+* **Message** - If you are not able to find the information you need, please use this field to describe the problem in as much detail as possible. 
+* **Attachment** - Use the `paperclip` symbol to locate and upload files. If you are able to include an image or gif to help explain the issue, it will often help our team to better understand your question and find a solution.
+* **Hotel name** - Pre-filled with your property name. If you are working with a multi-property chain, you can select the correct location from the drop-down menu
+
+When all fields are correctly completed, click the `Send feedback` button and your ticket will be sent to our support team for review, and they will respond back to assist with the problem as soon as possible. 
+
+If you would prefer to e-mail us directly, you can send inquiries to `support@mewssystems.com`.
 
 ## Request feature
 
