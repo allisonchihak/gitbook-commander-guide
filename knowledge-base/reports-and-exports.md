@@ -128,9 +128,9 @@ After clicking `Save`, your export schedule should be complete and enabled. Begi
    * **Export target** - Select the `+ E-mail` option, and on the next screen, complete all fields as described below:
 
      * **Name** - Select a title for this target, which will be available later for other export schedules
-     * **To** - Complete with the e-mail address provided by STR \(auto\_data@forecaster.str.com\) 
+     * **To** - Complete with the e-mail address provided by STR: `auto_data@forecaster.str.com`
      * **Cc** - If you would like anyone else to receive these reports, include those e-mail addresses here
-     * **Bcc** - If you would like anyone else to receive these reports, include those e-mail addresses here
+     * **Bcc** - If you would like anyone else to receive these reports without having access to the list of other recipients, include those e-mail addresses here
 
      When all fields are completed, click `Create`, and you'll see that these details have been pre-filled in the `Export target` field.
 
