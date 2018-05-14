@@ -68,7 +68,24 @@ When the report opens, click on the `OK` button and select `Create Duetto reserv
 
 Once you have selected this item, you should see a success message stating that the export schedule was successfully created and you will be redirected to the `Export schedule` settings.
 
-Under the `Report configuration` section, all settings should be automatically pre-selected and should be correct without any editing.
+Under the `Report configuration` section, choose the following filters for each item:
+
+* **Mode** - Detailed
+* **Filter** - Created
+* **Interval** - Last hour
+* **Options** - Include additional expenses, Include nights
+* **Values** - Net
+* **Group by** - No selection \(`-`\)
+* **Rate** - No selection \(`-`\)
+* **Rate group** - No selection \(`-`\)
+* **Type** - No selection \(`-`\)
+* **Travel agency** - No selection \(`-`\)
+* **Company** - No selection \(`-`\)
+* **Origin** - No selection \(`-`\)
+* **Created \(UTC\)** - Date and time that this export schedule was created
+* **Updated \(UTC\)** - Date and time that export schedule settings were most recently updated
+
+The rest of the fields should be correctly pre-filled with no selection and these fields can remain blank. 
 
 Under the `Export schedule` section, you will see the following fields:
 
