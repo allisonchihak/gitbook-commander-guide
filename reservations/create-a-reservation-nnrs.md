@@ -41,7 +41,7 @@ In the moment that you click `Select`, you will be redirected to the next step i
 
 ## 2 - Rates
 
-In the next screen, you will see the three following sub-sections. Please note that all required fields are marked with `*`. The first subsection includes the following fields to complete:
+In the next screen, you will see the three following sub-sections. Please note that all required fields are marked with `*`. The first subsection, labeled `Options` includes the following fields to complete:
 
 * **Customer\* ** - Search for the correct customer using first name, last name, or e-mail address; select `New customer` from the search field drop-down if you cannot find an existing customer profile
 * **Company** - If this is a business reservation, search for the company profile; select `New company` from the search field drop-down if you cannot find an the correct company; if you select a company, the system will automatically search through private rates that may be applicable
@@ -50,12 +50,12 @@ In the next screen, you will see the three following sub-sections. Please note t
 * **Voucher** - Select the correct voucher code from the drop-down list of codes according to your property settings
 * **Products** - Select all desired stay products from the drop-down list of products according to your property settings
 
-The next few fields are dependent on your selections in the previous step and will be displayed :
+The next few fields, labeled `Occupancy`are dependent on your selections in the previous step and will be displayed :
 
-* **Space type** - This field will be labeled with the selected space type chosen in the first step; select the number of spaces that you'd like to reserve, based on the property's availability
+* **Space category** - This field will be labeled with the selected space type chosen in the first step; select the number of spaces that you'd like to reserve, based on the property's availability
 * **Person count per space** - For each chosen number of spaces, select the number of adults and children that will be staying in each; please note that this field will be pre-filled with the maximum number of individuals allowed per the selected space type
 
-Next, you will see all available rates for the chosen space type, listed with their price `per night` and also the `total amount` for stay.
+Next, under `Rate`, you will see all available rates for the chosen space type, listed with their price `per night` and also the `total amount` for stay.
 
 Rates are displayed according to their rate group, which is the group of rates that have the same cancellation policy. The second step will automatically display the lowest available rates, which ensures that the customer is offered the lowest available price at the time of booking.
 
@@ -69,23 +69,23 @@ Click the `Select` button next to the rate you'd like to book. In the moment tha
 
 In the last screen, you will see an overview of your selections for this reservation before finalizing. Each booking will be represented on a reservation card, which will include the following items as per your previous choices:
 
-* **Space type**
+* **Space category**
 * **Date of arrival - date of departure**
 * **Rate**
 * **Adult count**
 * **Child count**
 * **Stay products**
-* **Number of booking x cost per booking** 
+* **Number of bookings **x** cost per booking** 
 
-On each card, you can use the `+` and `-` buttons, which can be used to duplicate a booking or to remove one from your basket. You can also use the `Add another item` button to create a connected booking with different stay details.
+On each card, you can use the `+` and `-` buttons, which can be used to duplicate a booking or to remove one from your basket. You can also use the `+` button next to `Reservations` to create a connected booking with different stay details.
 
-Just below, you'll see the overall summary, which includes:
+Just below, you'll see an overall summary with the following details:
 
 * **Total** - Total cost of all reservations
 * **Reservations** - Total number of reservations
 * **Nights** - Total number of nights
 
-Lastly, you will see the last few fields to complete before finalization. Please note that all required fields are marked with `*`:
+Lastly, you will see the `Reservation details` section, which includes the last few fields to complete before finalization. Please note that all required fields are marked with `*`:
 
 * **Customer\* ** - Name of customer selected in step 2; click on the icon for a direct link to their customer profile
 * **Origin\* ** - Select the source of this booking, which is used later for statistical analysis; please note that this is a required field; please also note that origin options are predetermined and cannot be customized
