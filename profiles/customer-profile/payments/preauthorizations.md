@@ -69,17 +69,17 @@ This right-hand side is for cards that are being charged manually via an externa
 
 Once the card information has been submitted, you will see it appear under the preauthorizations section.
 
-To charge the preauthorization, click the arrow icon under the 'Actions' column. A window will appear with the following information
+To charge the preauthorization, click the arrow icon under the `Actions` column. A window will appear with the following information:
 
-* **Provider** - prefilled with Adyen
-* **Preauthorization** - Preauthorization, Card type, Card number \(Original Amount with currency\)
-* **Amount** - prefilled with originally preauthorized amount. If you would like to charge a different amount than what was originally preauthorized, you may enter that amount here.
+* **Provider** - Pre-filled with `Mews`
+* **Preauthorization** - Preauthorization, card type, obfuscated card number \(original amount with currency\)
+* **Amount** - Pre-filled with originally preauthorized amount. If you would like to charge a different amount than what was originally preauthorized, you may enter that amount here. Please note that you can charge less than the original amount, but you cannot charge more. 
 
-If all information is correct, click the 'Charge online' button.
+If all information is correct, click the `Charge` button.
 
-At this time, the badge previously labeled 'Chargeable' will change to 'Charged', the icons previously under the 'Actions' column will disappear, and you will see this transaction appear under the 'Payments' section.
+At this time, the badge previously labeled `Chargeable` will change to `Charged`, the icons previously under the `Actions` column will disappear, and you will see this transaction appear under the `Payments` section.
 
-To locate the correct an already charged preauthorization, compare the 'Identifier' numbers, which will be the same under both the 'Preauthorizations' and 'Payments' sections.
+To locate the correct an already charged preauthorization, compare the `Identifier` numbers, which will be the same under both the `Preauthorizations` and `Payments` sections.
 
 ## Automate
 
@@ -96,13 +96,13 @@ Please note that if you choose to automate your preauthorizations, you will also
 
 ## Cancel
 
-If you would like to release the preauthorization, select the 'X' button under the 'Actions' column and the bank will be notified to release the transaction. Please note that it may take 3-5 business days for Adyen to release the transaction.
+If you would like to release the preauthorization, select the `X` button under the `Actions` column and the bank will be notified to release the transaction. Please note that it may take 3-5 business days for Adyen to release the transaction.
 
 > ### Mews Clues:
 >
 > * Mews does not store full credit card data. For data security reasons, we store only the last 4 digits of guests' cards and the card type.
-> * You can also use the '**+ Payment**' button to charge a preauthorization that has already been created. However, you cannot create a new preauthorization from this button.
-> * If you charge a different amount than what was originally preauthorized, the original amount will appear here \(under the 'Preauthorizations' section\) but the updated and correctly charged amount will appear under the 'Payments' section.
+> * You can also use the `+ Payment` button to charge a preauthorization that has already been created. However, you cannot create a new preauthorization from this button.
+> * If you charge a different amount than what was originally preauthorized, the original amount will appear here \(under the `Preauthorizations` section\) but the updated and correctly charged amount will appear under the 'Payments' section.
 > * If you charge the preauthorization partially, the remaining amount will be released to the guest account automatically
 > * Hover over the action icons and the state badges for a moment to see other currency values or to see labels in case you've forgotten what the icon means.
 
