@@ -23,6 +23,10 @@ If you would prefer to e-mail us directly, you can send inquiries to `support@me
 
 ## Request feature
 
+Our Productboard is the new go-to place for requesting features, voting on your favorite ideas, and reading about the items that we are already planning to implement. This is the best place for you, our beloved Mewsers, to submit all of your valuable feedback including any suggestions or improvements.
+
+In case you don't have any specific ideas of your own, we are continually adding new items to our boards, which you can comment on as you see fit. Keep checking back for added ideas, or simply to view the status of what's currently being developed.
+
 ## [Service status](http://status.mews.li/)
 
 We recommend all users store the link to this page as a bookmark on their computer. The link leads to our "Status Page" which we host on another platform, ensuring that if anything happens to Mews, you are always able to keep up to date on the challenges we are facing. When we have any outage, we always firstly update this page, so its truly the most up to date platform for information.
