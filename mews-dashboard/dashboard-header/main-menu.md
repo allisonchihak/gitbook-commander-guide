@@ -66,6 +66,8 @@ View, send, and manage all internal staff messages and external messages from yo
 ## Queues
 
 * **Device commands** - View the status of all commands from Mews to your connected devices
+* **Channel manager** - View the status of all channel manager queue items
+* **Exports** - View the processing status of all exports
 
 ## Custom links
 
