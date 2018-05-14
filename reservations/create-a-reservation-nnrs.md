@@ -17,17 +17,17 @@ Upon clicking on the `+` button, you will automatically be redirected to a new w
 
 The first step is divided into two sub-parts.
 
-First, you will see a three-month calendar including the current month and the following two months, with today's date highlighted for reference.
+First, If you are working with a multi-property chain, you will see a field for `City`, which is a drop-down menu of all the cities where your chain properties are located. Select the city where this booking should be made and availability will load in the next step based on your selection.
+
+Next, you will see a three-month calendar including the current month and the following two months, with today's date highlighted for reference.
 
 Click to select the arrival and departure dates for this booking in either order, which will highlight in blue after selection. The moment that you select the second date, the window containing the calendars will automatically collapse.
-
-If you are working with a multi-property chain, you will see an additional field for `City` appear when you select the second date. This `City` field contains a drop-down menu of all the cities where your chain properties are located. Select the city where this booking should be made and availability will load in the next step based on your selection.
 
 > ### Mews Clues
 >
 > Please note that the dates selected in the first step will be visible while completing the second part of the first step. If you need to change arrival or departure before finalizing, click on the dates to reopen the calendar and make the correct selections.
 
-Next, you will see your property's availability load below automatically, based on your date and city selection. You will see tabs above for each space category, which you can switch between to display all subsequent space types within each category. `Availability` is displayed next to each one, indicating the number of spaces that are available for booking, along with the `Default price` for each one. When you're ready to choose, click on the `Select` button next to the correct space type.
+Your property's availability will load below automatically based on your date and city selection. You will see tabs above for each space category, which you can switch between to display all subsequent space types within each category. `Availability` is displayed next to each one, indicating the number of spaces that are available for booking, along with the `Default price` for each one. When you're ready to choose, click on the `Select` button next to the correct space type.
 
 > ### Mews Clues
 >
