@@ -31,7 +31,7 @@ Your property's availability will load below automatically based on your date an
 
 > ### Mews Clues
 >
-> Default price is derived from...
+> Default price is derived from you lowest available rate \(BAR\).
 >
 > Please note that if there is no remaining availability in any particular space type, the `Select` button will automatically change to say `Overbook`, meaning that employees can book more people in a room than what they system has listed as the maximum occupancy. Please note that employees must be given the specific privilege to overbook.
 >
