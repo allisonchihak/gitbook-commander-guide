@@ -11,15 +11,16 @@ Preauthorizations are the practice within the banking industry of verifying elec
 
 Here, you can see a list of preauthorizations, both past and current. The following information is visible from the payments screen:
 
-* **Credit card** - Card type and last 4 digits of card number
-* **Sequence code** - 
-* **Code** - 
+* **Credit card** - Card type and obfuscated card number revealing only the last 4 digits of the card number
+* **Sequence code** - Any additional code used to identify this transaction; please consult with your accounting team for further information
+* **Code** - Three-digit CVV code
 * **Identifier** - a unique series of letters and numbers assigned to each transaction for easy identification
-* **Created** - Date and time that preauthorization was created, plus employee who created the transaction
 * **Expiration** - Date that the preauthorization will expire and funds will be released
+* **Created** - Date and time that preauthorization was created, plus employee who created the transaction
+* **Notes **- Any additional notes or information included for the transaction
 * **State**
-  * Chargeable - 
-  * **Charged **- When a preauthorization is successfully charged, badge will change black and will be labeled 'Charged'. Hover over this badge to see originally preauthorized amount and the charged amount. You will also see this transaction listed in the **Payments **section, with a matching **Identifier **number. 
+* * **Chargeable **- A successfully created preauthorization that is ready to be charged; this badge is displayed in blue indicating required action
+  * **Charged **- When a preauthorization is successfully charged, badge will change black and will be labeled 'Charged'. Hover over this badge to see originally preauthorized amount and the charged amount. You will also see this transaction listed in the `Payments` section, with a matching `Identifier`** **number. 
   * **Canceled **- When a preauthorization is canceled, state badge will change to a grey color and will be displayed with 'Canceled'. Hover over the badge to see the originally canceled amount and the date and time of cancellation. 
 * **Value** - The monetary value of the original preauthorization, including currency
 * **Actions**
