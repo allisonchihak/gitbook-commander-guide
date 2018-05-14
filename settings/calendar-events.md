@@ -2,7 +2,7 @@
 
 Custom calendar events can be used to mark public holidays, special events, or important observances that are relevant to your property's operations.
 
-Calendar events are visible in both the `Timeline` and in the `Rate Management screen`. In each one, you will see a number appear next to each respective date, which corresponds to the number of events that are happening on that day. Hover over the number to see event details, which are listed in chronological order.
+Calendar events are visible in the `Timeline`, the `Rate Management screen`, the `Occupancy report`, and the `Availability report`. In each one, you will see a number appear next to each respective date, which corresponds to the number of events that are happening on that day. Hover over the number to see event details, which are listed in chronological order.
 
 ## Create
 
