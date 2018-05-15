@@ -2,16 +2,6 @@
 
 Within the State tab, there are many parts of a reservation that you can manage. Below, you will find a detailed description of all functions that are available using the 'State' tab of the Reservation Module.
 
-* [Customers](rm-state.md#customers)
-* [Rooms](rm-state.md#rooms)
-* [Confirmation](rm-state.md#confirmation)
-* [Cancellation](rm-state.md#cancellation)
-* [Status](rm-state.md#status)
-* [Check-in](rm-state.md#check-in)
-* [Continuing](rm-state.md#continuing)
-* [Checkout](rm-state.md#checkout)
-* [Balances](rm-state.md#balances)
-
 ## Customers
 
 At the top of the State screen, under the 'Customers' title, you will see the following items:
@@ -70,6 +60,7 @@ You will see the following items in this section:
   * **Input error** - Booking was input by error
   * **Invalid payment** - Payment details provided by the guest were not valid
   * **Travel agency** - Agency cancels and does not provide a further reason
+  * **Requested by guest** - Cancellation directly by guest with no further reason provided
 * **Details** - Please note that this is a required field
 * **Apply Cancellation Fee** - The system will automatically recognize the cancellation policies for each rate type, and will add it as an item on the customer's billing page. For more information, please see the `Cancellation Policies` page.
 * **Send e-mail** - Send a cancellation confirmation e-mail to the guest at the moment that you click the `Cancel` button
