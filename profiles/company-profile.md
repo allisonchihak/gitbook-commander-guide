@@ -15,19 +15,19 @@ Upon creation of the company profile it is assigned a unique ID, which is displa
 
 Within this report, you can utilize the following filters:
 
-* **Country **- Sort companies by the country where they are located
+* **Country** - Sort companies by the country where they are located
 
 ## Create
 
 Navigate to the main companies page using the following path:
 
-* ** Main menu &gt; Profiles &gt; Companies**
+*  **Main menu &gt; Profiles &gt; Companies**
 
 Here, you will see a current list of all existing Company Profiles. Properties can create as many profiles as necessary.
 
 This main companies page is also a report, which you can export once or use to create an export schedule. You can also create a new company profile using most company field drop-downs throughout the system.
 
-From the main companies page, **look for the **`+`** icon and click on it**. In the next screen, complete the following details to create each profile:
+From the main companies page, **look for the** `+` **icon and click on it**. In the next screen, complete the following details to create each profile:
 
 * **Mother company** - Primary company profile used to connect all branches of one company are. You can use this feature to run reservation report statistics for only the mother company, summarizing all underlying profiles.
 * **Name** - Name of company
@@ -62,7 +62,7 @@ When all fields are correctly completed, click the `Create` button and you will 
 
 ## Delete
 
-To delete a company profile, navigate to the main company page,** click on the unwanted profile, look for the **`trashcan`**icon and click on it.**
+To delete a company profile, navigate to the main company page, **click on the unwanted profile, look for the** `trashcan`**icon and click on it.**
 
 Once a profile is deleted, it is no longer possible to assign this profile to reservations. However for past bookings, or future bookings which already had this company profile assigned, the statistics will still show the results including this "deleted" account in reports.
 

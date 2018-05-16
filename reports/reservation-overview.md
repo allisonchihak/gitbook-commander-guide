@@ -149,9 +149,9 @@ You can expand and use the following data filters:
 
 When all the desired filters are properly selected, click the `OK` button and you'll data displayed in the following columns below:
 
-* **Date **- If multiple dates are selected, each date will be displayed with its own line of results
+* **Date** - If multiple dates are selected, each date will be displayed with its own line of results
 * **Arrivals \(Online\)** - Number of reservation arrivals that day \(Number of completed online check-ins\)
-* **Departures **- Number of departures
+* **Departures** - Number of departures
 * **Stay overs** - Number of stay overs
 * **In house** - Number of reservations in house
 

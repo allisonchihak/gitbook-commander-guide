@@ -17,7 +17,7 @@ Below, you'll find an overview of each filter and feature that is visible on thi
   * **General** - All guest accounts with open balances including receivable payments \(i.e. invoices\)
   * **Guest Ledger** - All guest accounts with open balances
   * **Receivables** - All accounts with an open or overdue invoice payments
-* **Group by **- indicates in which order you'd like the report variables to appear
+* **Group by** - indicates in which order you'd like the report variables to appear
   * **Accounting Category** - View in order of [accounting categories](../settings/finance-settings/accounting-categories.md) used at your property
   * **Consumption Date** - View in chronological order starting with the oldest charge until the most recent charge
   * **Customer** - View all customers who have open balances, appearing in alphabetical order by last name
@@ -40,7 +40,7 @@ Below, you'll find an overview of each filter and feature that is visible on thi
   * **Revenue** - Items that have not yet been consumed but have already been paid for and closed on the bill prior to arrival \(i.e. a non-refundable accommodation payment for a guest staying in the future\). Mews would recommend against closing bills prior to departure date, as you are not able to change details of the booking once a bill is closed.
 * **Deposit Ledger** - An overview of all pre-payments \(i.e. deposits\), against which no consumed revenue has been posted yet.
 * **Guest Ledger** - An overview of all Consumed Revenue for which payment has not yet been received.
-* **General Ledger **- A total sum of the Deposit Ledger and the Guest Ledger. Positive values represent the total amount of revenue that is due to be paid to the property. Negative values represent any amount that should be paid back to the customer.
+* **General Ledger** - A total sum of the Deposit Ledger and the Guest Ledger. Positive values represent the total amount of revenue that is due to be paid to the property. Negative values represent any amount that should be paid back to the customer.
 
 ## Mews Clues
 

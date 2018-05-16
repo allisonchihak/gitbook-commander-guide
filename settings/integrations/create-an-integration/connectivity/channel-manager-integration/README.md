@@ -61,7 +61,7 @@ Anyway the set up steps are:
 >
 > * Please note that once charged product cannot be connected to a synchronized CHM rate \(via connecting it directly, or later modification\). In your stay product settings, you can change these preferences under the `Charging` field.
 
-** Map Products**
+ **Map Products**
 
 From mapping you will obtain a code for each individual prouct or service, that is offered via CHM. Those codes need to be mapped in the product detail. If there is no code for any product specified in the CHM mapping, it usually means that the CHM just resends the code of the product from the OTA to Mews without change, so the OTA code of the product needs to be mapped instead.That is why the mapping field can hold multiple codes for multiple OTAs separated by;or by,.Those codes need to be obtained from each OTA - hotel should ask for it and finish the mapping.
 

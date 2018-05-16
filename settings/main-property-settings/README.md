@@ -37,9 +37,9 @@ Below, you will find information about all items that can be found in your main 
 * **Google address search** - Mews uses the Google address search to find and auto-complete addresses. Start typing the address in this field and it will present address options to auto-complete these sections. If you cannot find the correct address using the Google address bar, you may manually enter the address in the fields below.
   * **Address line 1** - Street address and house number
   * **Address line 2** - Additional address information, often neighborhood, apartment, or building numbers
-  * **City **- City or town where this address can be found
+  * **City** - City or town where this address can be found
   * **Postal code** - Unique number to identify the area where this address is located
-  * **Country **- Depending on the country selected, you may be presented with additional fields to include.
+  * **Country** - Depending on the country selected, you may be presented with additional fields to include.
   * **State/Province** - Please note that this field will only appear for addresses in particular countries. This drop-down menu should include only options that are applicable to the country where this address can be found.
 * **Latitude** - Used in Mews Navigator for specific placement of your property
 * **Longitude** - Used in Mews Navigator for specific placement of your property
@@ -65,9 +65,9 @@ This section is used to identify the responsible party for accounting purposes a
 * **Google address search** - Mews uses the Google address search to find and auto-complete addresses. Start typing the address in this field and it will present address options to auto-complete these sections. If you cannot find the correct address using the Google address bar, you may manually enter the address in the fields below.
   * **Address line 1** - Street address and house number
   * **Address line 2** - Additional address information, often neighborhood, apartment, or building numbers
-  * **City **- City or town where this address can be found
+  * **City** - City or town where this address can be found
   * **Postal code** - Unique number to identify the area where this address is located
-  * **Country **- Depending on the country selected, you may be presented with additional fields to include.
+  * **Country** - Depending on the country selected, you may be presented with additional fields to include.
   * **State/Province** - Please note that this field will only appear for addresses in particular countries. This drop-down menu should include only options that are applicable to the country where this address can be found.
 
 ## Logo

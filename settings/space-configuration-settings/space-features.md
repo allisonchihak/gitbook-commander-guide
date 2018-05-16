@@ -8,9 +8,9 @@ Its possible to set up Space Features, which \(as the name states\) are the diff
 
 To create a Space Feature, simply select the + icon at the top of the screen in the "Space Feature" list.
 
-* **Name: **the name of the feature
+* **Name:** the name of the feature
 * **Short name:** short names are important, because it allows us to put more features into the small fields in the reservations module. 
 * **Description**
 * **Ordering**
-* **Spaces **- Here, you will find a drop-down menu of each room number within your property. Select the box next to each room that includes this particular space feature. 
+* **Spaces** - Here, you will find a drop-down menu of each room number within your property. Select the box next to each room that includes this particular space feature. 
 

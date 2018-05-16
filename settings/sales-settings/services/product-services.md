@@ -50,7 +50,7 @@ To create a new service, navigate to the main services page, look for the `+` ic
 * **Responsible department** - If this service is managed by one particular department, select that department from the drop-down list. Please be sure to also select `Order generates notification` so that all members of that department will receive system notifications when a new order is placed. Check our article about [`employee responsibility`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/responsibility.md) for more information.
 * **Accounting category** - Select the correct [`accounting category`](../../finance-settings/accounting-categories.md) according to your property's settings.
 * **Rebate accounting category** - If you have one specific `accounting category` for rebates, select the correct [`accounting category`](../../finance-settings/accounting-categories.md) according to your property's settings.
-* **Promotions **- Select a time to promote this item to customers: 
+* **Promotions** - Select a time to promote this item to customers: 
   * **After check-in** - Promote this service after customers have completed their online check-in \(e.g. Taxi pickup, day trips, or city tours\)
   * **After checkout** - 
   * **Before checkout** - 

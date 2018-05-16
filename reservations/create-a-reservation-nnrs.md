@@ -4,7 +4,7 @@ In Mews Commander, new reservations can be created at any time from any screen w
 
 Below, you can find a detailed description of the complete reservation-making process, which is divided into the three respective steps.
 
-**To create a reservation, look for the **`+`** button in the Mews header and click on it.**
+**To create a reservation, look for the** `+` **button in the Mews header and click on it.**
 
 * [1 - Availability](create-a-reservation-nnrs.md#1---availability)
 * [2 - Rates](create-a-reservation-nnrs.md#2---rates)
@@ -43,7 +43,7 @@ In the moment that you click `Select`, you will be redirected to the next step i
 
 In the next screen, you will see the three following sub-sections. Please note that all required fields are marked with `*`. The first subsection, labeled `Options` includes the following fields to complete:
 
-* **Customer\* ** - Search for the correct customer using first name, last name, or e-mail address; select `New customer` from the search field drop-down if you cannot find an existing customer profile
+* **Customer\***  - Search for the correct customer using first name, last name, or e-mail address; select `New customer` from the search field drop-down if you cannot find an existing customer profile
 * **Company** - If this is a business reservation, search for the company profile; select `New company` from the search field drop-down if you cannot find an the correct company; if you select a company, the system will automatically search through private rates that may be applicable
 * **Travel agency** - If reservation is affiliated with a travel agency, search for the correct travel agency profile using this field; if a travel agency is selected, you will see an additional field appear:
   * **Number** - Use this field to specify a Channel confirmation ID if applicable; this number will then be displayed on invoices and in reservation details
@@ -76,7 +76,7 @@ In the last screen, you will see an overview of your selections for this reserva
 * **Adult count**
 * **Child count**
 * **Stay products**
-* **Number of bookings **x** cost per booking** 
+* **Number of bookings** x **cost per booking** 
 
 On each card, you can use the `+` and `-` buttons, which can be used to duplicate a booking or to remove one from your basket. You can also use the `+` button next to `Reservations` to create a connected booking with different stay details.
 
@@ -88,8 +88,8 @@ Just below, you'll see an overall summary with the following details:
 
 Lastly, you will see the `Reservation details` section, which includes the last few fields to complete before finalization. Please note that all required fields are marked with `*`:
 
-* **Customer\* ** - Name of customer selected in step 2; click on the icon for a direct link to their customer profile
-* **Origin\* ** - Select the source of this booking, which is used later for statistical analysis; please note that this is a required field; please also note that origin options are predetermined and cannot be customized
+* **Customer\***  - Name of customer selected in step 2; click on the icon for a direct link to their customer profile
+* **Origin\***  - Select the source of this booking, which is used later for statistical analysis; please note that this is a required field; please also note that origin options are predetermined and cannot be customized
   * **Walk-in** - Customer physically entered the property to create booking on-site
   * **Channel** - Manually created reservations received via a third party channel \(e.g. OTA, Travel Agencies, etc.\)
   * **Telephone** - Customer called the property to create booking

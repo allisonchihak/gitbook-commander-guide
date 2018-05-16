@@ -22,11 +22,11 @@ Once all details are properly completed click the button `Create` and select the
 
 Hotels can set up the integration by themselves following the points below:
 
-**Name: **This field may remain blank **Property code: **Property code provided by the Portuguese police **Tax ID number: **Tax ID number of the hotel **To: **Email address where the export should be sent; you can enter multiple e-mails, which can be separated using either comaa or semicolons **Daily report execution time: **Time when should the export be generated and sent. By default it is set up to 9:00AM but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45AM, etc.\).
+**Name:** This field may remain blank **Property code:** Property code provided by the Portuguese police **Tax ID number:** Tax ID number of the hotel **To:** Email address where the export should be sent; you can enter multiple e-mails, which can be separated using either comaa or semicolons **Daily report execution time:** Time when should the export be generated and sent. By default it is set up to 9:00AM but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45AM, etc.\).
 
 When all fields are correctly completed, click on the `Save` button and you'll see the additional field at the top:
 
-**Enable ** - select this option to the integration.
+**Enable**  - select this option to the integration.
 
 ## Format
 
@@ -38,11 +38,11 @@ The report is generated for all the arriving guests for**yesterday**.
 
 1st line consists of:
 
-**0 **\(Constant value\)\|**BA03**\(File type - consant value\) \|**Tax ID number**\|**Hotel code**\|**Name of the hotel**\|**Hotel address**\(Address line 1\) \|**City of the hotel**\|**Postal code **\(First 4 digits\) \|**Postal code **\(Last 3 digits\) \|**Telephone number of the hotel **
+**0** \(Constant value\)\|**BA03**\(File type - consant value\) \|**Tax ID number**\|**Hotel code**\|**Name of the hotel**\|**Hotel address**\(Address line 1\) \|**City of the hotel**\|**Postal code** \(First 4 digits\) \|**Postal code** \(Last 3 digits\) \|**Telephone number of the hotel** 
 
 2nd line and further consist of:
 
-**1 **\(Constant value\)\|**Last name**\|**First name **\|**Nationality **\(\_ISO 3166-1 aplha-3\_format\) \|**Birthdate**\|**Document number**\|**Document type**\|**Country of issue **\(\_ISO 3166-1 aplha-3\_format\) \|**Customer country of residence**\(\_ISO 3166-1\_aplha-3 format\) \|**Reservation start**\|**Reservation end**
+**1** \(Constant value\)\|**Last name**\|**First name** \|**Nationality** \(\_ISO 3166-1 aplha-3\_format\) \|**Birthdate**\|**Document number**\|**Document type**\|**Country of issue** \(\_ISO 3166-1 aplha-3\_format\) \|**Customer country of residence**\(\_ISO 3166-1\_aplha-3 format\) \|**Reservation start**\|**Reservation end**
 
 ## Notes
 

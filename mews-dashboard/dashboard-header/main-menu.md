@@ -37,7 +37,7 @@ Click on the main menu button in the header of Mews to open a sidebar menu, whic
 * **Payment report** - Overview of all payments and rebates made in the selected time period.
 * **Accounting report** - Overview of all revenue posted in Mews Commander grouped by accounting categories
 * **Bills and invoices** - Report and overview of all issued invoices and closed bills
-* **Fiscal record report ** - Overview of all bills closed via a fiscal registry
+* **Fiscal record report**  - Overview of all bills closed via a fiscal registry
 * **Posting journal** - Report and overview of all products posted in a selected time period
 * **Manager report** - Master summary used to analyze performance during various intervals
 * **Credit card report** - Overview of all credit cards and preauthorizations created in a specific period

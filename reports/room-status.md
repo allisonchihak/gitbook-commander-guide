@@ -20,11 +20,11 @@ Within the report header, on the right-hand side, you will find the hand icon, r
 
 When you click on the `Hand` icon, you will be redirected to the assignment form, where you will see the following options:
 
-* **Employees **- Select which employees you'd like to assign to rooms. If multiple employees are selected, items will be distributed between them evenly. Please note that each space can only be assigned to one person. 
-* **State **- Selected employees will be assigned to only this state of room. For a more detailed description of the different housekeeping states, please [`click here`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/chapter1/about-commander/dashboard-donuts/room-status-donut.md). 
-  * **Clean **- Assign employees to clean rooms that need to be inspected
-  * **Dirty **- Assign employees to dirty rooms that need to be cleaned and inspected
-  * **Inspected **- Assign employees to already inspected rooms, if needed
+* **Employees** - Select which employees you'd like to assign to rooms. If multiple employees are selected, items will be distributed between them evenly. Please note that each space can only be assigned to one person. 
+* **State** - Selected employees will be assigned to only this state of room. For a more detailed description of the different housekeeping states, please [`click here`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/chapter1/about-commander/dashboard-donuts/room-status-donut.md). 
+  * **Clean** - Assign employees to clean rooms that need to be inspected
+  * **Dirty** - Assign employees to dirty rooms that need to be cleaned and inspected
+  * **Inspected** - Assign employees to already inspected rooms, if needed
   * **Out of order** - Assign employee to rooms that need major repair
   * **Out of service** - Assign employee to rooms that need minor repair
 * **Space types** - Select which space type you'd like to assign employees to. Please note that 'Bed' will automatically be unselected. This is because it can complicate assignments if one employee is assigned to a bed and a different employee is assigned to the room containing the bed. 
@@ -37,44 +37,44 @@ From here, you will be redirected back to the Room status report, where you will
 
 At the top of the report there are several options you can select to narrow down the report:
 
-* **Options **- show or hide any of the following features:
+* **Options** - show or hide any of the following features:
   * **Display customer notes** - See any additional notes on that customer's profile
   * **Display products** - See any stay products that this customer has ordered
   * **Display reservation notes** - See any additional notes on that particular reservation
-* **Filter **- Choose what types of reservations you would like to see based on the state of the reservation. Please note that the results are heavily dependent on date selected. 
+* **Filter** - Choose what types of reservations you would like to see based on the state of the reservation. Please note that the results are heavily dependent on date selected. 
   * **\(no selection\)** - Use this option to see all reservations, regardless of state
-  * **Arrived **- Reservations that have already arrived and completed check-in
+  * **Arrived** - Reservations that have already arrived and completed check-in
   * **Arrived or arriving** - Reservations that have already arrived that day or will be arriving later that day
-  * **Arriving **- Reservations that will be arriving at some point during the selected date
-  * **Departed **- Reservations that have already completed checkout and departed on that day
+  * **Arriving** - Reservations that will be arriving at some point during the selected date
+  * **Departed** - Reservations that have already completed checkout and departed on that day
   * **Departed and arriving** - Groups that have already departed with another group arriving the same day in the same space
   * **Departed or departing** - Those that have already completed checkout and departed and those who will be departing that day
-  * **Departing **- Reservations that will be departing at some point during that selected date, but have not done so yet
+  * **Departing** - Reservations that will be departing at some point during that selected date, but have not done so yet
   * **Departing and arriving** - When a group will be departing that day with another group arriving that day in the same space
   * **House use** - Reservations booked for a member of the hotel staff or being used for a property-related event
   * **No arrival nor stay over** - Any booking that is not arriving that day nor staying over after having already arrived previously
   * **No departure nor stay over** - Any booking that is not leaving that day nor staying over after having already arrived previously
   * **Out of order** - Any room that is blocked from being reserved and taken from inventory because of need for repair or any other reason that would prevent guests from staying in that space
   * **Stay over** - Any booking of that is staying overnight and has neither arrived that day nor will be departing that day
-  * **Used **- Any room currently being used or that will be used later that day. You'll also see rooms marked `Out of Order.`
-  * **Vacant **- Any room that is not occupied
+  * **Used** - Any room currently being used or that will be used later that day. You'll also see rooms marked `Out of Order.`
+  * **Vacant** - Any room that is not occupied
   * **Vacant or departed** - Any room that is not occupied or has had a guest that departed from that room earlier that day
-* **Assignee **- This drop-down will display a list of all employees registered at your property. Select the employee whose results you'd like to see on the report
-* **State **- if you would only like to see rooms in a specific housekeeping state \(for example, the supervisor would only like to see only "clean" rooms which require inspection.\) You may choose from any one of the following options, although please note that you may only select one at a time. To see detailed descriptions of all our room statuses, [click here](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/chapter1/about-commander/dashboard-donuts/room-status-donut.md). 
+* **Assignee** - This drop-down will display a list of all employees registered at your property. Select the employee whose results you'd like to see on the report
+* **State** - if you would only like to see rooms in a specific housekeeping state \(for example, the supervisor would only like to see only "clean" rooms which require inspection.\) You may choose from any one of the following options, although please note that you may only select one at a time. To see detailed descriptions of all our room statuses, [click here](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/chapter1/about-commander/dashboard-donuts/room-status-donut.md). 
   * **\(no selection\)** - Use this option to see all reservations, regardless of housekeeping state
-  * **Clean **
-  * **Dirty **
-  * **Inspected **
+  * **Clean** 
+  * **Dirty** 
+  * **Inspected** 
   * **Out of order** 
   * **Out of service** 
 * **Group by** - View your results in order of any of these following items
-  * **Assignee **- View results according to the employee assigned to them 
-  * **Category **- View results in order of space category
-  * **Floor **- View in order of building floor
-  * **State **- View results according to current room state
-* **Floor **- Shows only units located on the particularly selected floor
+  * **Assignee** - View results according to the employee assigned to them 
+  * **Category** - View results in order of space category
+  * **Floor** - View in order of building floor
+  * **State** - View results according to current room state
+* **Floor** - Shows only units located on the particularly selected floor
 * **Room category** -  Select only a particular room category for more specific results
-* **Date **- Select any day to see its results. Date field with automatically be pre-filled with current date.
+* **Date** - Select any day to see its results. Date field with automatically be pre-filled with current date.
 
 ## Features
 

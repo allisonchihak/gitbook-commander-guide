@@ -32,7 +32,7 @@ One major benefit of the Cloud, is that you can access the solution at any time 
 
 ## Create
 
-From the main employee page, **look for the **`+`** icon in the top right-hand corner and click on it.** In the next screen, complete the following details to create each profile:
+From the main employee page, **look for the** `+` **icon in the top right-hand corner and click on it.** In the next screen, complete the following details to create each profile:
 
 * **E-mail** - please note that only one employee profile can be linked with each valid e-mail address. 
 * **Title** - Choose the title that best fits this employee. 
@@ -42,7 +42,7 @@ From the main employee page, **look for the **`+`** icon in the top right-hand c
 
 Once created, the employee's name, e-mail address, and title will not be editable. If incorrect, you must fully delete the profile and create a new one with the correct details.
 
-**When all fields are correctly completed, click the **`Create`** button.**
+**When all fields are correctly completed, click the** `Create` **button.**
 
 Once the profile is created, an e-mail is sent to the employee with a one-time token, allowing them to log in and set their password.
 

@@ -39,7 +39,7 @@ Its possible to create new customer profiles from the following locations in the
 
 For the initial creation of the customer profile we ask for the following details:
 
-* **E-mail - **Customer's primary e-mail address. It is very important to include the customer's primary address because they will receive important information via e-mail, such as confirmations and invitations for online check-in.
+* **E-mail -** Customer's primary e-mail address. It is very important to include the customer's primary address because they will receive important information via e-mail, such as confirmations and invitations for online check-in.
 * **Title** - Please note that this section is the only place where gender is recorded for data purposes
   * **Mr.** - Select for married and unmarried guests that identify as male
   * **Mrs.** - Select this option for married guests that identify as female

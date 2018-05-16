@@ -36,7 +36,7 @@ At this time, employees should count the money that is physically present in the
 
 If the balances match, look for the 'Close shift' button in the top right and click on it. Here, you can find several pieces of information
 
-* **Base value correction **
+* **Base value correction** 
   * **Currency** - A list of currencies that this the chosen cashier is able to support
   * **Base value \(Optional\)** - The monetary value that you'd like to leave in the cashier for the beginning of the next shift. You may enter a base value for each currency that your property has chosen to support, however none are required.
 * **Shift Overview** - this is the same overview that you used to match cashier balance. 

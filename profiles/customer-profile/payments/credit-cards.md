@@ -26,7 +26,7 @@ Here, you will see a list of credit cards that the customer has used to make pay
 * **Actions** - Each icon represents a different action. Hover over the icons to see their label.
   * **Preauthorization** - create a new preauthorization for an existing card or select 'New credit card' from the drop-down list to add a new card
   * **Credit card payment** - Make a payment with an existing credit card or select 'New credit card' to add a payment with a different card
-  * **Delete **- Remove credit card details from the customer's profile. Please note that once you've deleted these card details, you must reenter that information in order to use the card again in the future. 
+  * **Delete** - Remove credit card details from the customer's profile. Please note that once you've deleted these card details, you must reenter that information in order to use the card again in the future. 
 
 ## Add
 

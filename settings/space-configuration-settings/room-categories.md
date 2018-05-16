@@ -15,7 +15,7 @@ On this main page, you will see a list of all the categories available at your p
 
 ## Create
 
-**To create a new room category, look for the **`+`** button and click on it.** Complete the following fields to create a new category:
+**To create a new room category, look for the** `+` **button and click on it.** Complete the following fields to create a new category:
 
 * **Space type** - Select the most applicable description of the space 
   * **Apartment** - A set of rooms for individual occupancy, usually including household utilities
@@ -65,7 +65,7 @@ On this main page, you will see a list of all the categories available at your p
 
 To delete a room category, navigate to the main room categories page.
 
-**Click on the name of the unwanted category. Look for the trashcan icon and click on it, confirm deletion, and you will be redirected to the main page. ** You'll see that this room category will no longer be visible. Please note that deletion of a room category cannot be undone.
+**Click on the name of the unwanted category. Look for the trashcan icon and click on it, confirm deletion, and you will be redirected to the main page.**  You'll see that this room category will no longer be visible. Please note that deletion of a room category cannot be undone.
 
 > ### Mews Clues
 >

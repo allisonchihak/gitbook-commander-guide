@@ -106,7 +106,6 @@
     * [Exchange rates](settings/finance-settings/exchange-rates.md)
     * [Accounting Categories](settings/finance-settings/accounting-categories.md)
     * [Cashiers](settings/finance-settings/cashiers/README.md)
-      * [Create a Cashier](settings/finance-settings/cashiers/create-a-cashier.md)
       * [Manage a Cashier](settings/finance-settings/cashiers/manage-a-cashier/README.md)
         * [Transactions](settings/finance-settings/cashiers/manage-a-cashier/transactions/README.md)
           * [Transactions Received](settings/finance-settings/cashiers/manage-a-cashier/transactions/transactions-received.md)

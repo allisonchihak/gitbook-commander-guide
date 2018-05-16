@@ -43,3 +43,4 @@ To [manage your cashier](manage-a-cashier/), navigate to the [second cashier loc
 Click on the title of the cashier you'd like to delete. Look for the trash can icon in the top right corner of your screen and click on it. When the confirmation dialog appears, click OK. When you return to the cashiers page, you should no longer see this cashier listed.
 
 Please note that this action cannot be undone.
+

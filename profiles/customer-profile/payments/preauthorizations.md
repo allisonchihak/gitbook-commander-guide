@@ -12,15 +12,15 @@ Here, you can see a list of preauthorizations, both past and current. The follow
 * **Identifier** - a unique series of letters and numbers assigned to each transaction for easy identification
 * **Expiration** - Date that the preauthorization will expire and funds will be released
 * **Created** - Date and time that preauthorization was created, plus employee who created the transaction
-* **Notes **- Any additional notes or information included for the transaction
+* **Notes** - Any additional notes or information included for the transaction
 * **State**
-* * **Chargeable **- A successfully created preauthorization that is ready to be charged; this badge is displayed in blue indicating required action
-  * **Charged **- When a preauthorization is successfully charged, badge will change black and will be labeled 'Charged'. Hover over this badge to see originally preauthorized amount and the charged amount. You will also see this transaction listed in the `Payments` section, with a matching `Identifier`** **number. 
-  * **Canceled **- When a preauthorization is canceled, state badge will change to a grey color and will be displayed with 'Canceled'. Hover over the badge to see the originally canceled amount and the date and time of cancellation. 
+* * **Chargeable** - A successfully created preauthorization that is ready to be charged; this badge is displayed in blue indicating required action
+  * **Charged** - When a preauthorization is successfully charged, badge will change black and will be labeled 'Charged'. Hover over this badge to see originally preauthorized amount and the charged amount. You will also see this transaction listed in the `Payments` section, with a matching `Identifier` ****number. 
+  * **Canceled** - When a preauthorization is canceled, state badge will change to a grey color and will be displayed with 'Canceled'. Hover over the badge to see the originally canceled amount and the date and time of cancellation. 
 * **Value** - The monetary value of the original preauthorization, including currency
 * **Actions**
-  * **Cancel **- Click this button to cancel a preauthorization. Please note that it may take 3-5 days for the bank to release funds that were being held for this preauthorization. 
-  * **Charge **- Click this button to charge the preauthorized amount. You must confirm the amount that was originally preauthorized, but it is possible to charge only a partial amount from the original value. Once charged, the transaction will appear in the Payments section. You can also click on the + Payment button and select 'Charge preauthorization' if there is one that's already chargeable. 
+  * **Cancel** - Click this button to cancel a preauthorization. Please note that it may take 3-5 days for the bank to release funds that were being held for this preauthorization. 
+  * **Charge** - Click this button to charge the preauthorized amount. You must confirm the amount that was originally preauthorized, but it is possible to charge only a partial amount from the original value. Once charged, the transaction will appear in the Payments section. You can also click on the + Payment button and select 'Charge preauthorization' if there is one that's already chargeable. 
 
 ## Create
 
@@ -53,8 +53,8 @@ For cards being charged manually via an external terminal that is not associated
 * **Expiration** - Date that the card will expire and become invalid
 * **Name** - Full name exactly as it appears on card
 * **Format**
-  * **Physical **- Card was physically present on the property at the time of transaction
-  * **Virtual **- Card information was received via telephone or by a third party
+  * **Physical** - Card was physically present on the property at the time of transaction
+  * **Virtual** - Card information was received via telephone or by a third party
 * **Currency** - Select the currency that you'd like to charge. This will be pre-filled with your default currency.
 * **Amount** - Enter the monetary value of the preauthorization, not including currency symbols
 * **Code** - Three-digit CVV code

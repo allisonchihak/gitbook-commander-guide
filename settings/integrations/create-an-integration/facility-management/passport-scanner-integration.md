@@ -29,8 +29,8 @@ Within the integration, under the `Settings` section, you can add and connect yo
 
 In the next page, to add a new passport scanner, look for the `+` button, click on it, and complete the following fields:
 
-* **Name **- Choose a name to describe the device itself. For example, choose a name based on the make and model of the device or name it based on the location within your property
-* **Identifier **- 
+* **Name** - Choose a name to describe the device itself. For example, choose a name based on the make and model of the device or name it based on the location within your property
+* **Identifier** - 
 
 When all entered information is correct, click the `Create` button and you will see the following two fields:
 

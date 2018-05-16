@@ -6,7 +6,7 @@ To create a new `Exchange Rate Provider Integration`, navigate to the main integ
 
 Look for the `+` icon and click on it. Next, look for the `Accounting` section and click on `Exchange Rate Provider Integration`. In a modal window, you will see the following fields to complete:
 
-* **Name **- Rename the integration if you would like to add multiple exchange rate provider integrations for different currencies.
+* **Name** - Rename the integration if you would like to add multiple exchange rate provider integrations for different currencies.
 * **Source** - Choose the source of the rates provided
   * Bank of England
   * Czech National Bank
@@ -14,9 +14,9 @@ Look for the `+` icon and click on it. Next, look for the `Accounting` section a
   * Open Exchange Rates
 * **Relative adjustment** - Add a percentage adjustment to the exchange rate. Enter 0 or leave this field empty to have values set to actual rate.
 * **Period**
-  * **Daily **- Exchange rates will update once per day at 00:00
-  * **Monthly **- Exchange rates will update at 00:00 on the first of each month
-  * **Yearly **- Exchange rates will update at 00:00 on the first day of each year
+  * **Daily** - Exchange rates will update once per day at 00:00
+  * **Monthly** - Exchange rates will update at 00:00 on the first of each month
+  * **Yearly** - Exchange rates will update at 00:00 on the first day of each year
 * **Update offset** - This number represents the delay before each update within the selected period. The offset allows you to specify the time and/or day of the update. Offset can be any value between 0 and chosen period.
   * **Days** - Number of days delayed before update
   * **Hours** - Number of hours delayed before update
@@ -29,7 +29,7 @@ Look for the `+` icon and click on it. Next, look for the `Accounting` section a
 
 When all information is correctly entered, click `Create` and you will see the following additional fields:
 
-* **Enabled **- Select this box for automatic exchange rate updates, or deselect it to update your rates manually.
+* **Enabled** - Select this box for automatic exchange rate updates, or deselect it to update your rates manually.
 * **Last successful update** - Date and time of the most recent update
 * **Created \(UTC\)** - Date and time that this integration was created
 * **Updated \(UTC\)** - Date and time that integration settings were most recently updated

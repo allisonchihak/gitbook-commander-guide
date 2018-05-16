@@ -11,5 +11,5 @@ There are several pieces of information that can be found in this overview:
 * **Created** - Date and time that transaction was created, plus employee who created the transaction
 * **Bill** - If a transaction is associated with a customer's bill, that bill number will appear here. Each bill number is a link to view that bill on which the transaction can be found. Please note that only closed bills will appear in this column, although cash transactions on open bills will still be visible on this screen.
 * **Notes** - If the transaction was associated with a customer, this column will state whether the transaction is a payment or refund. Currency is displayed here as well. Additional notes can be manually added by an employee at the time that the transaction is created.
-* **Value - ** This is the monetary amount that was given or received, including currency symbols. 
+* **Value -**  This is the monetary amount that was given or received, including currency symbols. 
 

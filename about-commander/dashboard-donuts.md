@@ -19,11 +19,11 @@ Below, you can find a description of the seven donuts visible from the Mews Dash
 
 Throughout Mews we have implemented a small number of colors, and always with the focus of using them to highlight actionable items. We believe that a PMS should not be a circus of colors which distracts the user from their job. All colors used in Mews follow a similar pattern.
 
-* **Orange **- urgent action is required
-* **Green **- non-urgent action is required
-* **Blue **- action will be required at some point today, but not urgently
-* **Black & Grey **- action is completed, no further action needed today
-* **Yellow **- long term action required \(ie. room is out of order, requiring significant repairs\)
+* **Orange** - urgent action is required
+* **Green** - non-urgent action is required
+* **Blue** - action will be required at some point today, but not urgently
+* **Black & Grey** - action is completed, no further action needed today
+* **Yellow** - long term action required \(ie. room is out of order, requiring significant repairs\)
 
 ## Tasks
 

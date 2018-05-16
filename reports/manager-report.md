@@ -11,7 +11,7 @@ Below, you will find a description of all filters and items that you can find on
 * **States**
   * **Confirmed** - Include only confirmed bookings
   * **Optional** - If you choose future dates in your selection, you may have some "optional" bookings included
-* **Mode **- Choose how you would like your results to be displayed with regards to time
+* **Mode** - Choose how you would like your results to be displayed with regards to time
   * **Day** - One column for each day plus totals
   * **Month** - One column for each month within selected interval plus totals
   * **Month overview** - One column for yesterday and one column for the current month-to-date
@@ -23,7 +23,7 @@ Below, you will find a description of all filters and items that you can find on
   * **Accounting category** - Results with one row for each of your [accounting categories ](../settings/finance-settings/accounting-categories.md)
   * **Accounting category classification** - Results with rows for each classification chosen within [accounting categories](../settings/finance-settings/accounting-categories.md)
   * **Service** - Results with a row for each [service](../settings/sales-settings/services/) that your property offers, including stay
-* **Values - **
+* **Values -** 
   * **Gross** - Total including item value and tax
   * **Net** - Item value excluding tax
   * **Tax value** - Value Added Tax, excluding price of taxed items

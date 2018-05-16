@@ -17,7 +17,7 @@ From this page, you will see a list of all segments currently being used in your
 
 ## Create
 
-**To create a new segment, navigate to the main **`Segment`** page, look for the **`+`** button and click on it.** A new window will automatically appear, where you can enter the desired name and then click `Save`.
+**To create a new segment, navigate to the main** `Segment` **page, look for the** `+` **button and click on it.** A new window will automatically appear, where you can enter the desired name and then click `Save`.
 
 ## Settings
 
@@ -45,5 +45,5 @@ The first source of data from this list will be the segment that appears in the 
 
 ## Delete
 
-To delete a segment, navigate to the main `Segment` page. **Click on the name of the unwanted segment, look for the **`trashcan`** icon, click on it, and confirm deletion.** You will be automatically redirected to the main segment page, where that segment will no longer be visible.
+To delete a segment, navigate to the main `Segment` page. **Click on the name of the unwanted segment, look for the** `trashcan` **icon, click on it, and confirm deletion.** You will be automatically redirected to the main segment page, where that segment will no longer be visible.
 

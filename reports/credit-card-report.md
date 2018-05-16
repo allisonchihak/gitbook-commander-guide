@@ -7,7 +7,7 @@ The credit card report shows all credit cards and preauthorizations created in a
 * **Options**
   * **Display credit cards** - to see all credit cards stored in the selected period
   * **Display preauthorizations** - to see all preauthorizations made in the selected period
-* **Origin **- Original source of payment
+* **Origin** - Original source of payment
   * **Gateway** - Charged via the Mews Merchant \(or Adyen direct account\)
   * **Manual** - Cards/preauthorizations charged manually
 * **Type** - Select any specific card types that you would like to see or 'Deselect all' to see all results

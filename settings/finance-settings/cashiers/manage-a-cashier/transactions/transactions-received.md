@@ -22,6 +22,6 @@ Revenue is evident in the system when you can see two corresponding bill items. 
 
 If cash is posted directly to the cashier as a transaction received, revenue is not automatically posted against it, so it is therefore considered a simple cash exchange, which do not impact accounting reports.
 
-* **Example 1: **If an employee is sent to a shop to buy flowers using money directly from the cashier, it can be entered as a transaction paid and the receipt would be included in the shift overview. In this case only an outgoing payment is posted in the cashier, which will not impact accounting reports.
-* **Example 2: **If a customer pays for a minibar item in cash, you must to go to their Guest Profile, post the minibar item on an open bill, and then post the cash as a payment, which will appear as a separate transaction on the open bill. In this scenario, both revenue and the payment are posted and will be included in accounting reports.
+* **Example 1:** If an employee is sent to a shop to buy flowers using money directly from the cashier, it can be entered as a transaction paid and the receipt would be included in the shift overview. In this case only an outgoing payment is posted in the cashier, which will not impact accounting reports.
+* **Example 2:** If a customer pays for a minibar item in cash, you must to go to their Guest Profile, post the minibar item on an open bill, and then post the cash as a payment, which will appear as a separate transaction on the open bill. In this scenario, both revenue and the payment are posted and will be included in accounting reports.
 

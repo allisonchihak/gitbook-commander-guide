@@ -42,16 +42,16 @@ The reservation report is the report with most data and filtering options to ana
   * **Balance** - View the outstanding balance on any bills and quickly assess which accounts still need to be settled
   * **Business Segment** - View results according to the segments defined at your property
   * **Cancellation Reason** - View according to selected cancellation reasons
-  * **Company **- View reservations connected to company profiles within your property
+  * **Company** - View reservations connected to company profiles within your property
   * **Confirmation State** - Summaries of both `Optional` and `Confirmed` bookings
   * **Creation Date** - Sorted in chronological order
   * **Credit Card** - View whether guests have a credit card attached to their customer profile and identify reservations with failed card payments
   * **Customer Classification** - Sort by customer classifications, defined in the `Internals` section of the customer profile
   * **Customer Nationality** - View according to your customers' selected nationality
   * **Departure Date** - Sorted in chronological order
-  * **Group ** - View group bookings with group name as the section titles; results are also ordered by group size from smallest to largest for easy classification
+  * **Group**  - View group bookings with group name as the section titles; results are also ordered by group size from smallest to largest for easy classification
   * **Mother Company** - View all reservations connected to mother company profiles within your property, including revenue from all other subordinate companies
-  * **Origin ** - Sort by each different booking origin
+  * **Origin**  - Sort by each different booking origin
   * **Rate** - View results according to the rate types defined at your property
   * **Rate Group** - View results according to the rate groups defined at your property
   * **Room** - View results for each room number

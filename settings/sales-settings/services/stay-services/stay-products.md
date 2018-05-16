@@ -24,7 +24,7 @@ To create a stay product or stay product category, navigate to the stay products
 
 * **Service** - Pre-filled with `Stay`
 * **Parent category** - A drop-down menu of currently existing product categories. If you would not like this category to be included under another one, you may leave this field blank. 
-* ** Name** - Choose a general name for this category
+*  **Name** - Choose a general name for this category
 * **Short name** - 
 * **Description** - 
 * **Ordering** - If you'd like your categories to appear in any particular order, enter a number for each one. Lower numbers will be listed first.

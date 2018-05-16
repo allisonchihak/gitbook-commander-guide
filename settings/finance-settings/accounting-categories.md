@@ -30,14 +30,14 @@ In several of the finance-related Mews reports, you have the option to filter re
 To create a new accounting category, click on the grey + button in the top right of your screen. On the next screen, you will need to enter the following information. Required fields are marked with a \*
 
 * **Name** - The name of the Accounting category that will appear in reports and exports. \(e.g. Minibar, Beverages, Accommodation, Rentals, etc.\)
-* **Code **- An internal code that is included as part of the Accounting report export.
+* **Code** - An internal code that is included as part of the Accounting report export.
 * **External code** - Codes used by external accounting software can be entered here so that items are easily recognizable between both programs. This field is specific to Mews' accounting exports. Mews recommends that you consult your accounting team for further guidance regarding the completion of this field.
 * **Cost center code** - Used to identify the department to which costs should be allocated. This field is specific to Mews' accounting exports. Mews recommends that you consult your accounting team for further guidance regarding the completion of this field.
-* **Ledger account code - **Used for double-entry bookkeeping. This field is specific to Mews' accounting exports. This field is specific to Mews' accounting exports. Mews recommends that you consult your accounting team for further guidance regarding the completion of this field.
-* **Posting account code - **Used for double-entry bookkeeping. This field is specific to Mews' accounting exports. Mews recommends that you consult your accounting team for further guidance regarding the completion of this field.
+* **Ledger account code -** Used for double-entry bookkeeping. This field is specific to Mews' accounting exports. This field is specific to Mews' accounting exports. Mews recommends that you consult your accounting team for further guidance regarding the completion of this field.
+* **Posting account code -** Used for double-entry bookkeeping. This field is specific to Mews' accounting exports. Mews recommends that you consult your accounting team for further guidance regarding the completion of this field.
 * **Classification** - Used for some integration partners \(e.g. Snapshot\) that require specification of what each accounting category is used for. For example, you may need to define which categories are linked to accommodation. These classifications can be used as filters in the Accounting report and Manager report. Mews would recommend that you consult with your accounting team, as it may not be necessary to complete this field.
   * **\(no selection\)**
-  * **Accommodation **- costs related to stay
+  * **Accommodation** - costs related to stay
   * **Events** - Any one-time occasion or special event fees
   * **External revenue** - to classify all revenue that do not belong to a property but is being resold. \(i.e. city taxes, outsourced transport, tours\)
   * **Facilities** - Access to a particular room, conference center, or other facility

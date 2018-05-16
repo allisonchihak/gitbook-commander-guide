@@ -14,11 +14,11 @@ Secondly, to use this feature, properties must collect credit card information f
 
 To use one-click payments, first you must navigate to the customer profile `Billing` screen of the guest. When ready to take payment, move all `Unpaid items` to the `Open bill` of the customer, and you will see the `Charge and close` button appear at the bottom of that section.
 
-If the customer has only one card on file, **click the **`Charge and close`** button to complete payment and close bill**. This button will be displayed in the appropriate Mews action color with the card type icon.
+If the customer has only one card on file, **click the** `Charge and close` **button to complete payment and close bill**. This button will be displayed in the appropriate Mews action color with the card type icon.
 
 If the customer has multiple cards on file, the `Charge and close` button will function as a drop-down menu. Click to see all cards available for that customer, displayed with card type icon and the last 4 digits of the card number. Virtual cards will also be marked as such. Additionally, you will see any current preauthorizations listed in the drop-down menu. Click on the preauthorization to charge it and the balance on this bill will be updated.
 
-In this case, **click on the **`Charge and close`** button, displayed in the appropriate Mews action color, and then select the correct card from the menu to complete payment and close bill.**
+In this case, **click on the** `Charge and close` **button, displayed in the appropriate Mews action color, and then select the correct card from the menu to complete payment and close bill.**
 
 After you click `Charge and close`, you will be automatically redirected to the bill preview. Here, you can select final details and check that all information is correct. For more information about the `Review and close` screen, [`click here`](review-and-close.md).
 

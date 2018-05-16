@@ -51,7 +51,7 @@ You will see the following items in this section:
 * **Reason** - Please note that this is a required field
   * **Other** - None of these options accurately describe the reason; please note that it is then required to specify the reason in the open-text-field below
   * **Confirmation missed** - Customer has an optional booking, but did not confirm by the release date
-  * **Booked elsewhere **- Guest has booked another hotel or destination
+  * **Booked elsewhere** - Guest has booked another hotel or destination
   * **Force majeure** - Guest must cancel their stay due to a force majeure event, such as earthquakes, floods, etc.
   * **Guest complaint** - Guest complains and then wants to cancel their order
   * **No show** - Guest did not show up for reservation

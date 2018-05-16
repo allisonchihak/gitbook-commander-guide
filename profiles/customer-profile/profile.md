@@ -17,8 +17,8 @@ At the very top of this page on the right-hand side, you will find the following
 
 * **Clear customer profile** - Delete all of that customer's personal data from our system, excluding `Last name`; please note that the customer profile will still exist in Mews in order to maintain billing and reservation data, but personal data will no longer be visible; please also note that this action cannot be undone
 * **Passport Scan** - If your property is using a Passport Scan integration, click on this icon to scan the customer's passport and instantly import all information into the system.
-* **Print **- Click this icon to print a customer registration card for the customer profile that is currently on the screen. All information that is filled-in in their customer profile will also be pre-filled on the printed card. Please note that if you print the registration card from this screen, reservation details will not be included, as the guest might have multiple bookings.
-* **Help **- You've found it! This is a direct link to this page, which includes detailed information about what you are seeing. If you cannot find what you're looking for, please use the search feature or look at our Table of Contents. 
+* **Print** - Click this icon to print a customer registration card for the customer profile that is currently on the screen. All information that is filled-in in their customer profile will also be pre-filled on the printed card. Please note that if you print the registration card from this screen, reservation details will not be included, as the guest might have multiple bookings.
+* **Help** - You've found it! This is a direct link to this page, which includes detailed information about what you are seeing. If you cannot find what you're looking for, please use the search feature or look at our Table of Contents. 
 
 ## Profile
 
@@ -53,7 +53,7 @@ Within the European Union and Schengen countries, and also while a guest is stay
 **To add a new identity document**, click on the `+` button just next to the section title. You will see a second window open and you will be asked to complete the following fields:
 
 * **Number** - This is an open text field that accepts numbers, letters and special characters
-* **Type ** - Currently, we support the following four types of Identity Document
+* **Type**  - Currently, we support the following four types of Identity Document
   * **Driver's license**
   * **ID card**
   * **Passport**
@@ -78,14 +78,14 @@ When all entered information is correct, click the `Save` button and you will au
 
 As guests may have multiple address, you can add them to their customer profile here. Addresses will be ordered chronologically, with the most recent information appearing at the top of the list.
 
-**To add a new address, click on the **`+`** button just next to the section title and complete the following fields in the new window:**
+**To add a new address, click on the** `+` **button just next to the section title and complete the following fields in the new window:**
 
 * **Google address bar** - Mews uses the Google address bar to search for and auto-complete addresses. Simply start typing the address in the Google Bar and it will present address options to auto-complete these sections. This allows for much cleaner guest data in the system. Please always be sure to double-check the addresses of the customer. If you cannot find the correct address using the Google address bar, you may manually enter the address fields below.
 * **Address line 1** - Street address and house number
 * **Address line 2** - Additional address information, often neighborhood, apartment, or building numbers
-* **City **- City or town where this address can be found
+* **City** - City or town where this address can be found
 * **Postal code** - Unique number to identify the area where this address is located
-* **Country **- Depending on the country selected, you may be presented with additional fields to include.
+* **Country** - Depending on the country selected, you may be presented with additional fields to include.
 * **State/Province** - Please note that this field will only appear for addresses in particular countries. This drop-down menu should include only options that are applicable to the country where this address can be found.
 
 When all entered information is correct, click the `Save` button and you will automatically be redirected to the main Customer Profile section.
@@ -104,7 +104,7 @@ Files can now be uploaded to user profiles to reference any important informatio
 
 Please note that in order to upload a file, that file must first be saved to your computer and easily accessible for uploading. Please also note that you cannot upload files larger than 20MB.
 
-**To add a file, click on the **`+`** button just next to the section title:**
+**To add a file, click on the** `+` **button just next to the section title:**
 
 In the next modal window, you will see a field labeled `File`. Within that field, look for the `Choose file` button and click on it. Next, a search dialog will open, where you can find the file on your computer that you'd like to upload.
 
@@ -112,9 +112,9 @@ Select the correct file, and click `Open`, which will lead you back to the origi
 
 When the correct file is selected, click `Upload` and you will be automatically redirected to the main `Profile` tab of the customer profile, where you should see that file listed under the `Files` section.
 
-**To download a file, click on the **`Name`** of the file under the **`Files`** section.** After clicking, the download will automatically begin.
+**To download a file, click on the** `Name` **of the file under the** `Files` **section.** After clicking, the download will automatically begin.
 
-**To delete a file, click on the **`Trashcan`** icon next to the unwanted file.** After confirming deletion, and you will see that the file is no longer listed in that `Files` section in the customer profile. Please note that once a file is deleted, this action cannot be undone.
+**To delete a file, click on the** `Trashcan` **icon next to the unwanted file.** After confirming deletion, and you will see that the file is no longer listed in that `Files` section in the customer profile. Please note that once a file is deleted, this action cannot be undone.
 
 ## Merge
 
