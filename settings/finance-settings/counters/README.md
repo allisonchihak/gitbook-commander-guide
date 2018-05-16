@@ -60,9 +60,20 @@ From within each counter page, you can:
 
 > #### Mews Clues:
 >
->Please note that default invoice counters can be set in [Accounting Configurations](../accounting-configuration.md)
+> Please note that default invoice counters can be set in [Accounting Configurations](../accounting-configuration.md)
 
 ## Delete
 
 To delete any bill counter, simply open the counter, and click on the trashcan icon to delete it.
 
+## Service Order Counters
+
+A service order counter is used to process only service orders.
+
+Each service order is automatically assigned a number from the moment that it is created, starting with 1.
+
+Currently, it is not possible to change this line of numbering. You may reset your counter at any time, but Mews would not recommend doing so because it may cause duplicate orders, which could then conflict with your accounting reports.
+
+> #### Mews Clues:
+>
+> Please note that it is not possible to have more than one service order counter
