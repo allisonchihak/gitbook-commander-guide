@@ -84,7 +84,7 @@ We strongly recommend against resetting your counters, as it might cause duplica
 
 To delete any bill counter, simply open the counter, and click on the trashcan icon to delete it.
 
-## Service Order Counters
+## Service Order
 
 A service order counter is used to process only service orders.
 
@@ -96,3 +96,6 @@ Currently, it is not possible to change this line of numbering. You may reset yo
 >
 > Please note that it is not possible to have more than one service order counter
 
+## Proforma
+
+A proforma counter is used to create invoice previews before closing and issuing them to customers.
