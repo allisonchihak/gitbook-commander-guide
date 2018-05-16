@@ -36,7 +36,15 @@ You will need to complete the following fields. Required fields are marked with 
 
 Click the Create button and your cashier will be saved in Mews Commander.
 
-To [manage your cashier](manage-a-cashier/), navigate to the [second cashier location](./).
+## Manage
+
+Navigate to the cashier settings to manage your cashiers using the following path:
+
+* **Main Menu > Finance > Cashier**
+
+This cashier page can be used to manage existing cashiers. You can also reach this page directly from the Commander Dashboard, under the Finance section.
+
+Here, you can find a list of cashiers that are being used in the system. To manage a cashier, click on the title. Within each cashier page, you can take internal cash transactions, manage shifts, or view previously completed transactions.
 
 ## Delete
 
