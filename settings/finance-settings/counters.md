@@ -47,16 +47,16 @@ Here, you can find a list of counters that are being used in the system listed w
 
 From this page, you can:
 
-* [Create a Bill Counter]()
-* [Create a Proforma Counter]()
+* [Create a Bill Counter](counters.md)
+* [Create a Proforma Counter](counters.md)
 
 To manage a counter, click on the title.
 
 From within each counter page, you can:
 
-* [Make a counter default]()
-* [Reset a Counter]()
-* [Delete a Counter]()
+* [Make a counter default](counters.md)
+* [Reset a Counter](counters.md)
+* [Delete a Counter](counters.md)
 
 > ### Mews Clues:
 >
@@ -76,7 +76,7 @@ We strongly recommend against resetting your counters, as it might cause duplica
 
 > ### Mews Clues
 >
-> Properties could also consider [creating a new counter]() to use at the beginning of each year, making it easy to differentiate items and fully preventing the possibility of bill number duplication.
+> Properties could also consider [creating a new counter](counters.md) to use at the beginning of each year, making it easy to differentiate items and fully preventing the possibility of bill number duplication.
 >
 > When you reset a counter, it can only be reset to a value of 1, even if you chose to start the bill numbers at a higher value previously. This is the reason that we'd recommend against resetting counters. If you'd like for a counter to reset at a value other than one, you must create a new counter.
 
@@ -99,3 +99,4 @@ Currently, it is not possible to change this line of numbering. You may reset yo
 ## Proforma
 
 A proforma counter is used to create invoice previews before closing and issuing them to customers.
+

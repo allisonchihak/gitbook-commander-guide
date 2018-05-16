@@ -77,6 +77,7 @@
     * [Export Schedules](reports/about-reports/export-schedules/README.md)
       * [Export Targets](reports/about-reports/export-schedules/export-targets.md)
       * [Export Integrations](reports/about-reports/export-schedules/export-integrations.md)
+      * [Export Queue](reports/about-reports/export-schedules/export-queue.md)
   * [Accounting Ledger](reports/accounting-ledger.md)
   * [Accounting Report](reports/accounting-report.md)
   * [Action Log](reports/action-log.md)
