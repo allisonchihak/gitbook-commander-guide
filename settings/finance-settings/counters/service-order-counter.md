@@ -1,6 +1,0 @@
-# Service Order Counter
-
-### Counters:
-
-
-

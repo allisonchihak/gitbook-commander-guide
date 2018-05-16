@@ -1,4 +1,0 @@
-# Reset a Counter
-
-### Counters:
-

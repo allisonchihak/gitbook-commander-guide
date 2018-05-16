@@ -47,36 +47,36 @@ Here, you can find a list of counters that are being used in the system listed w
 
 From this page, you can:
 
-* [Create a Bill Counter](create-a-counter.md)
-* [Create a Proforma Counter](create-a-counter.md)
+* [Create a Bill Counter]()
+* [Create a Proforma Counter]()
 
 To manage a counter, click on the title.
 
 From within each counter page, you can:
 
-* [Make a counter default](default-counters.md)
-* [Reset a Counter](reset-a-counter.md)
-* [Delete a Counter](create-a-counter.md)
+* [Make a counter default]()
+* [Reset a Counter]()
+* [Delete a Counter]()
 
-> #### Mews Clues:
+> ### Mews Clues:
 >
-> Please note that default invoice counters can be set in [Accounting Configurations](../accounting-configuration.md)
+> Please note that default invoice counters can be set in [Accounting Configurations](accounting-configuration.md)
 
 ## Default
 
 For Bill counters its important to always select one of the counter as a "default counter" which is the counter it will preselect upon closing of a bill or invoice by default. Should the user wish to have a bill following a different numbering, upon closing of the bill, they can manually reassign the counter, prior to closing the bill.
 
-> #### Mews Clues
+> ### Mews Clues
 >
-> Please note that default invoice counter settings can be found in [Accounting configuration](../accounting-configuration.md)
+> Please note that default invoice counter settings can be found in [Accounting configuration](accounting-configuration.md)
 
 ## Reset
 
 We strongly recommend against resetting your counters, as it might cause duplication of bill numbers if you forget to change the formatting of the number. However many hotels would like to start their new year with a fresh line of numbering, and for this reason they may choose to use this option.
 
-> #### Mews Clues
+> ### Mews Clues
 >
-> Properties could also consider [creating a new counter](create-a-counter.md) to use at the beginning of each year, making it easy to differentiate items and fully preventing the possibility of bill number duplication.
+> Properties could also consider [creating a new counter]() to use at the beginning of each year, making it easy to differentiate items and fully preventing the possibility of bill number duplication.
 >
 > When you reset a counter, it can only be reset to a value of 1, even if you chose to start the bill numbers at a higher value previously. This is the reason that we'd recommend against resetting counters. If you'd like for a counter to reset at a value other than one, you must create a new counter.
 
@@ -92,6 +92,7 @@ Each service order is automatically assigned a number from the moment that it is
 
 Currently, it is not possible to change this line of numbering. You may reset your counter at any time, but Mews would not recommend doing so because it may cause duplicate orders, which could then conflict with your accounting reports.
 
-> #### Mews Clues:
+> ### Mews Clues:
 >
 > Please note that it is not possible to have more than one service order counter
+

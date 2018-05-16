@@ -1,6 +1,0 @@
-# Default Counters
-
-### Counters:
-
-
-
