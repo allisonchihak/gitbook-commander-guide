@@ -1,4 +1,0 @@
-# Manage a Cashier
-
-Cashiers:
-
