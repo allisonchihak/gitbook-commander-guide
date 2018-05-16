@@ -4,7 +4,7 @@ When you click on the title of a Cashier, you will see a list of transactions ju
 
 There are several pieces of information that can be found in this overview:
 
-* **Number** - Each transaction is automatically assigned a number by the system, which can be used to find them for future reference. You can click on this number to access that particular [transaction receipt](transaction-receipts.md).
+* **Number** - Each transaction is automatically assigned a number by the system, which can be used to find them for future reference. You can click on this number to access that particular [transaction receipt]().
 * **Customer** - If a customer makes a cash payment, the name of that customer will appear here. If a transaction is for internal use and made by an employee, this column will remain blank
 * **Created** - Date and time that transaction was created, plus employee who created the transaction
 * **Bill** - If a transaction is associated with a customer's bill, that bill number will appear here. Each bill number is a link to view that bill on which the transaction can be found. Please note that only closed bills will appear in this column, although cash transactions on open bills will still be visible on this screen.
@@ -34,7 +34,6 @@ When all information is entered, click the 'Save' button. Once saved, you will s
 > * **Example 1:** If an employee is sent to a shop to buy flowers using money directly from the cashier, it can be entered as a transaction paid and the receipt would be included in the shift overview. In this case only an outgoing payment is posted in the cashier, which will not impact accounting reports.
 > * **Example 2:** If a customer pays for a minibar item in cash, you must to go to their Guest Profile, post the minibar item on an open bill, and then post the cash as a payment, which will appear as a separate transaction on the open bill. In this scenario, both revenue and the payment are posted and will be included in accounting reports.
 
-
 ## Paid
 
 This is where employees can post small outgoing cash payments for internal use.
@@ -63,3 +62,4 @@ Each receipt will include the following information:
 If the receipt was made during the current shift, you can access the receipt from the cashier page by clicking on the transaction number. If the receipt is from a past shift, you can search by date, find the correct shift, view the list of transactions from that day, and then click on the transaction number to view the receipt.
 
 Receipts are available to print for the client or for your own administration by clicking on the printer icon.
+

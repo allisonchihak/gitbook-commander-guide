@@ -53,7 +53,7 @@ After starting balances are entered, you will press 'Close shift' again and you 
   * **Income** - Monetary value that was received throughout the shift
   * **Outcome** - Starting balance, plus income, minus remaining balance. This is the monetary value that should be taken from the cashier and given to accountants at the end of the shift. 
   * **Balance** - Monetary value that is left in the cashier for the beginning of the next shift
-* **Transactions** - A list of each transaction that occurred throughout the shift, including base value corrections \(to balance out to the base value\). For more information, see [transactions](transactions/). 
+* **Transactions** - A list of each transaction that occurred throughout the shift, including base value corrections \(to balance out to the base value\). For more information, see [transactions](transactions.md). 
 
 Look for the printer icon in the top right corner of your screen. You can use that button to print this shift overview and give it to your accountants along with the cash that is not part of your starting balance for the next shift.
 
