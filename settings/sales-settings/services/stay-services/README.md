@@ -37,7 +37,6 @@ To make any changes to the stay settings found on this page, simply change the d
   * **Has expanded bill items** - Grouped bill items will be displayed with each product as an individual line items on bills. If you do not select this option, items will be displayed with a summary header and a total amount only. Please note that in your internal reporting, all products will be displayed individually.
   * **Has overrideable price** - Standard price of this item can be overridden by an employee
   * **Has overrideable tax** - VAT of this item can be overridden by an employee. Please note that this might cause products to be posted with incorrect taxes and could therefore cause problems for your accounting team later.
-  * **Is retrospectively orderable** - Service can be ordered after consumption date and will be available for manual postings. For example, minibar items in the guest's room that were consumed earlier in their stay.
   * **New orders automatically processed** - When this service is ordered, it will automatically be processed. If not selected, an employee must manually accept and process an order. This is primarily important for orders from Mews Navigator, which require an employee to manually process. For example if a guest orders Room Service via Navigator, reception should "accept the order", which informs the guest that the order is being processed.
   * **Offer to customer** - Display this service to customers for ordering
   * **Offer to employee** - Display this service to employees for ordering
@@ -45,6 +44,7 @@ To make any changes to the stay settings found on this page, simply change the d
   * **Order generates notification** - When an order is made, the system will generate a notification in Mews to the responsible employee and all members of the responsible department
   * **Order requires completed notes** - Notes must be included as a required field before an order can be completed. For example, if a guest orders a taxi, it's important for them to include the time and location of pickup or drop-off.
   * **Orderable only with products** - Service can only be ordered with sub-products attached. For example if you order 'Room Service', this order must include the items that you'd like to receive. 
+  * **Is retrospectively orderable** - Service can be ordered or posted on a bill after consumption date. For example, minibar items in the guest's room that were consumed earlier in their stay.
 * **Visit options**
   * **Apply cancellation fee by default** - Automatically charge cancellation fee for canceled bookings
   * **Change inspected to clean overnight** - Automatically change vacant inspected rooms to clean overnight. Housekeeping must then double check that rooms are inspected before any customer can check-in
