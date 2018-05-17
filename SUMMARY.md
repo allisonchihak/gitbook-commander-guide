@@ -5,6 +5,7 @@
   * [Dashboard Donuts](about-commander/dashboard-donuts.md)
   * [Customer Communication](about-commander/customer-communication.md)
   * [Help](about-commander/help.md)
+  * [GDPR](about-commander/gdpr.md)
 * [Mews Dashboard](mews-dashboard/README.md)
   * [Dashboard Header](mews-dashboard/dashboard-header/README.md)
     * [Main Menu](mews-dashboard/dashboard-header/main-menu.md)
