@@ -6,15 +6,6 @@ In this section all parts of accommodation services and related products are des
 
 To make any changes to the stay settings found on this page, simply change the details and click `Save`.
 
-Here, you will find five primary sections of settings, which include the following items:
-
-* [General settings](./#general-settings)
-* [Options](./#options)
-* [Responsibility](./#responsibility)
-* [Accounting](./#accounting)
-* [Reception](./#reception)
-* [Image](./#image)
-
 ## General settings
 
 * **Enterprise** - Pre-filled with your property's name. This field is not editable.
@@ -40,12 +31,12 @@ Here, you will find five primary sections of settings, which include the followi
 * **Channel manager segment** - Define a segment for all bookings made via Channel Managers
 * **Distributor segment** - Define a segment for all bookings made via Mews Distributor
 * **Default segment** - Define a segment that will automatically be preselected for new bookings made in Mews Commander. This field is editable before finalizing booking details. 
-* **Options** - Select the applicable options for each item.
+* **Options**
   * **Bill as package** - Items with this option selected will be merged together into one line on the customer's bill. Please note that you must select this option for each item that you'd like packaged together. Items will always be expanded in internal reports.
-  * **Has configurable business segment** - If you do not have a default business segment, select this option if you would still like the `Business Segment` field to appear to users. If this option is not selected, users cannot fill in `Business segment` information.
-  * **Has expanded bill items** - Grouped bill items will be displayed with each product as an individual line items on guests' bills. If you do not select this option, items will be displayed with a summary header and a total amount only. Please note that in your internal reporting, all products will be displayed individually.
+  * **Has configurable segment** - Select this option if you would like the `segment` field to appear to while creating new reservations. If not selected, users can only fill in `segment` information in the reservation module properties tab.
+  * **Has expanded bill items** - Grouped bill items will be displayed with each product as an individual line items on bills. If you do not select this option, items will be displayed with a summary header and a total amount only. Please note that in your internal reporting, all products will be displayed individually.
   * **Has overrideable price** - Standard price of this item can be overridden by an employee
-  * **Has overrideable tax** - Allows users to change the VAT of an item at the time of posting. This might cause products to be posted with incorrect taxes and could therefore cause problems for your accounting team later. For this reason, Mews would recommend against selecting this setting.
+  * **Has overrideable tax** - VAT of this item can be overridden by an employee. Please note that this might cause products to be posted with incorrect taxes and could therefore cause problems for your accounting team later.
   * **Is retrospectively orderable** - Service can be ordered after consumption date and will be available for manual postings. For example, minibar items in the guest's room that were consumed earlier in their stay.
   * **New orders automatically processed** - When this service is ordered, it will automatically be processed. If not selected, an employee must manually accept and process an order. This is primarily important for orders from Mews Navigator, which require an employee to manually process. For example if a guest orders Room Service via Navigator, reception should "accept the order", which informs the guest that the order is being processed.
   * **Offer to customer** - Display this service to customers for ordering
