@@ -6,15 +6,6 @@ At the heart of this you see a number of circles, which we affectionately like t
 
 Below, you can find a description of the seven donuts visible from the Mews Dashboard. You'll also find a guide to the Mews Action Colors, which are used throughout the system as an indication of necessary action.
 
-* [Action Colors](dashboard-donuts.md#action-colors)
-* [Tasks](dashboard-donuts.md#tasks)  
-* [Departures](dashboard-donuts.md#departures)
-* [Arrivals](dashboard-donuts.md#arrivals)
-* [Orders](dashboard-donuts.md#orders)
-* [Room Status](dashboard-donuts.md#room-status)
-* [Arriving Profiles](dashboard-donuts.md#arriving-profiles)
-* [In House Profiles](dashboard-donuts.md#in-house-profiles)
-
 ## Action Colors
 
 Throughout Mews we have implemented a small number of colors, and always with the focus of using them to highlight actionable items. We believe that a PMS should not be a circus of colors which distracts the user from their job. All colors used in Mews follow a similar pattern.
