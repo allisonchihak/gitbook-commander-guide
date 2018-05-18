@@ -30,16 +30,6 @@ Mews would additionally recommend that you conduct an internal audit of all the 
 
 Properties are not required to submit any information to country officials, however we highly recommend that you become acquainted with your country's Data Protection Officer \(DPO\) in case you need to report a leak of your data. From the time that you are made aware of any identified data leaks, you will have 72 hours to respond.
 
-### Sharing
-
-### Delete Data
-
-#### Customer Data
-
-#### User Data
-
-### Opt-in
-
 ### Stay informed
 
 E-mail to [support@mewssystems.com](mailto:support@mewssystems.com) if you would like to be included in our MewsFlash mailing list. This is where you will receive the most up-to-date information about changes and new features. 
