@@ -1,42 +1,46 @@
+---
+description: >-
+  General Data Protection Regulation (GDPR) was introduced to give users more
+  power and control over their own personal data and how it is used.
+---
+
 # GDPR
 
-General Data Protection Regulation \(GDPR\) was introduced to give users more power and control over their own personal data and how it is used. 
+### Overview
 
-In order to comply with GDPR law, Mews has reviewed internal processes and improved security to protect client data. Additionally, we have increased user rights and we've used settings to limit access to parts of the system for those that need to access only certain parts.
+In order to comply with GDPR law, Mews has reviewed internal processes and improved security to protect client data. Furthermore, we have increased user rights and we've added some additional settings to limit access to parts of the system for those that need to access only certain parts.
 
-Similarly, we are extending our Navigator platform so that we can give guests full control of their data. Each customer will be able to log in to Navigator and see all stored personal information, including information about all integration partners to which this data was distributed.
+EyeforTravel recently created a great overview of what GDPR is and what it means for the industry. Click on [this link](https://www.youtube.com/watch?v=D2Qf-FLqjro) to take a look.  
 
-Each profile will include an option to delete all their data from Mews and also the ability to send the request to integration partners. This option is only available after they have physically stayed in the hotel, as their data is required in order to process the reservation.
+### Mews Responsibilities
 
-**When will Mews notify us on what has been done?**
+In order to complete our certification process, Mews has undergone a series of penetration tests to be eligible for GDPR assessment.
 
-This will be an ongoing process finishing in May 2018 - there will be multiple features released until then. As usual we will announce them via our MewsFlash e-mails that you can subscribe to \(e-mail to [support@mewssystems.com](mailto:support@mewssystems.com) if you would like to get included on this mailing list\).
+Mews has been working on updating the Data protection specifications within our contracts to comply with the new framework. 
 
-**What is the deadline for Mews to be compliant?** 
+Additionally, Mews is extending our Navigator platform so that we can give guests full control of their data. Each customer will be able to log in to Navigator and see all stored personal information, including information about all integration partners to which this data was distributed.
 
-May 2018
+Each profile will include an option to delete all their data from Mews and also the ability to send a deletion request to integration partners. This option is only available after they have physically stayed in the hotel, as their data is required in order to process the reservation.
 
-**What is needed from a hoteliers point of view?** 
+### Property Recommendations
 
-Hotels should assign a dedicated Data Protection Officer per hotel or per chain who is in charge of this project internally. It would also be great to get a trainer in so that your employees are trained in how to look at data privacy.
+Properties should assign a dedicated Data Protection Officer per location or per chain. This person should be responsible for this project internally. It could also be beneficial to hire someone who can come speak to your employees about legal changes, so that your staff is trained in how to look at data privacy and inform users of their rights.
 
-We recommend you conduct an internal audit of all the software you use, which is collecting and storing personal data of guests and employees, and ensure they will all comply with GDPR guidelines by May 2018.
+Mews would additionally recommend that you conduct an internal audit of all the software you use. This is important so that you are aware of exactly who is collecting and storing personal data of guests and employees. Taking these steps will ensure that your property is compliant with all GDPR regulations.
 
-**Renewal of the contract** 
+Properties are not required to submit any information to country officials, however we highly recommend that you become acquainted with your country's Data Protection Officer \(DPO\) in case you need to report a leak of your data. From the time that you are made aware of any identified data leaks, you will have 72 hours to respond.
 
-We are working on updating the Data protection specs in the contract to comply with the new framework. This will come in Q1 of 2018.
+### Sharing
 
-**Will Mews get a GDPR verified certificate?**
+### Delete Data
 
-We will perform a series of penetration tests, so once these are completed, there will be a GDPR assessment.
+#### Customer Data
 
-**Is there anything we \(the hotel\) need to submit to our country officials?**
+#### User Data
 
-No, however you should become acquainted with the country'd DPO in case you need to report a leak of your data \(you will have 72 hours to respond to an identified data leak\).
+### Opt-in
 
-**GDPR Info:**
+### Stay informed
 
-A great overview of what GDPR is and what it means for the industry was given by EyeforTravel recently. We think you may benefit from viewing this link [https://www.youtube.com/watch?v=D2Qf-FLqjro. ](https://www.youtube.com/watch?v=D2Qf-FLqjro.%C2%A0)
-
-As this is quite extensive, you may find a summary attached to this FAQ.
+E-mail to [support@mewssystems.com](mailto:support@mewssystems.com) if you would like to be included in our MewsFlash mailing list. This is where you will receive the most up-to-date information about changes and new features. 
 
