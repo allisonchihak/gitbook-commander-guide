@@ -6,8 +6,6 @@ In order to comply with GDPR law, Mews has reviewed internal processes and impro
 
 Similarly, we are extending our Navigator platform so that we can give guests full control of their data. Each customer will be able to log in to Navigator and see all stored personal information, including information about all integration partners to which this data was distributed.
 
-
-
 Each profile will include an option to delete all their data from Mews and also the ability to send the request to integration partners. This option is only available after they have physically stayed in the hotel, as their data is required in order to process the reservation.
 
 **When will Mews notify us on what has been done?**
