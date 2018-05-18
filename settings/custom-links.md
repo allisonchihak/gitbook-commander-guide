@@ -2,5 +2,14 @@
 
 ## Custom Links
 
-In Mews its possible to set a number of "favourites", which are shortcuts to certain sections in the system, which you navigate to regularly. To create a new "custom link" simply select the + icon at the top of the screen. type the NAME and URL, and the custom link will appear in your sidebar menu. This will allow you to quickly navigate there with just 1 click.
+In Mews Commander, it is possible to create shortcuts for pages that you need to use regularly. To create a new custom link, you must first navigate to your main property settings using the following path:
+
+* **Main Menu &gt; Settings &gt; Property**
+
+On this page, you will see a list of settings. Look for the `Custom links` button and click on it to be redirected to a new page. Once there, find the `+` icon, click on it, and fill in the following details:
+
+* **Name** - Create a short title for the bookmark
+* **URL** - Add the web address for the page that your want the custom link to automatically redirect to; please note that this URL can be for an external web page or one within Mews Commander 
+
+When both fields have been completed, click `Create`. The bookmarked page will appear in the main menu under the `Custom links` tab, allowing you to quickly navigate to the pages that you have to use on a regular basis.
 
