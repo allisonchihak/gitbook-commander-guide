@@ -26,7 +26,7 @@ Hotels can set up the integration by themselves following the points below:
 
 When all fields are correctly completed, click on the `Save` button and you'll see the additional field at the top:
 
-**Enable**  - select this option to the integration.
+**Enable** - select this option to the integration.
 
 ## Format
 
@@ -38,7 +38,7 @@ The report is generated for all the arriving guests for**yesterday**.
 
 1st line consists of:
 
-**0** \(Constant value\)\|**BA03**\(File type - consant value\) \|**Tax ID number**\|**Hotel code**\|**Name of the hotel**\|**Hotel address**\(Address line 1\) \|**City of the hotel**\|**Postal code** \(First 4 digits\) \|**Postal code** \(Last 3 digits\) \|**Telephone number of the hotel** 
+**0** \(Constant value\)\|**BA03**\(File type - consant value\) \|**Tax ID number**\|**Hotel code**\|**Name of the hotel**\|**Hotel address**\(Address line 1\) \|**City of the hotel**\|**Postal code** \(First 4 digits\) \|**Postal code** \(Last 3 digits\) \|**Telephone number of the hotel**
 
 2nd line and further consist of:
 

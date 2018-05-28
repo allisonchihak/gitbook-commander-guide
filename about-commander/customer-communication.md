@@ -14,7 +14,7 @@ As reservations in the past, often from other systems, are uploaded into Mews, u
 
 ## Password reset
 
-Article in progress! You can find more information about passwords in our [user profiles](../mews-dashboard/dashboard-header/user-profiles.md) and [employee profile](../profiles/employee-profile.md) articles. 
+Article in progress! You can find more information about passwords in our [user profiles](../mews-dashboard/dashboard-header/user-profiles.md) and [employee profile](../profiles/employee-profile.md) articles.
 
 ## Magic link
 
@@ -52,7 +52,7 @@ You can create a [`Mail template`](https://github.com/MewsSystems/gitbook-guide/
 
 ## Before start
 
-Article in progress! More information coming soon. 
+Article in progress! More information coming soon.
 
 ## Invitation to online check-in
 
@@ -68,13 +68,13 @@ Resend a welcome message to your guests after they have arrived and completed ch
 
 ## After end
 
-Article in progress! You can find more information about e-mails in our [mail templates](../settings/sales-settings/services/stay-services/mail-templates/#after-end) article. 
+Article in progress! You can find more information about e-mails in our [mail templates](../settings/sales-settings/services/stay-services/mail-templates/#after-end) article.
 
 ## Charge confirmation
 
-More information coming soon! While in progress, you can check out our article about [card payments](../profiles/customer-profile/payments/new-payments.md#credit-card). 
+More information coming soon! While in progress, you can check out our article about [card payments](../profiles/customer-profile/payments/new-payments.md#credit-card).
 
 ## Charge fail
 
-More coming soon! While we're working on it, you can check out our article about [card payments](../profiles/customer-profile/payments/new-payments.md#credit-card). 
+More coming soon! While we're working on it, you can check out our article about [card payments](../profiles/customer-profile/payments/new-payments.md#credit-card).
 

@@ -26,11 +26,10 @@ Look for the `+` icon and click on it. Next, look for the `Facility management` 
 
 * **Name** - VisiOnline
 * **API URL** - This field consists of three parts. You can use the image just below for reference:
-  * Add `http://`
+  * Add `https://`
   * Following this, enter the local IP address of the computer where the VisiOnline Interface System \(Client & Server\) application is running. For more information about finding your local IP address, [click here](https://support.microsoft.com/en-us/help/15291/windows-find-pc-ip-address). 
-  * Next, enter the interface Port, which you can find in the `VisiOnline Interface System (Server)`. Be sure to include a `:` between your IP address and interface port.
   * Lastly, enter `/api/v1/`.
-  * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1:10003/api/v1/`
+  * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1/api/v1/`
 * **Username** - Username of the client in Visionline. \(It is recommended to create a new user and password in Visionline integration for the connection with Mews\).
 * **Password** - Password of the client in Visionline. \(It is recommended to create a new user and password in Visionline integration for the connection with Mews\).
 * **Notes** - Add any additional notes or information that you'd like to include
